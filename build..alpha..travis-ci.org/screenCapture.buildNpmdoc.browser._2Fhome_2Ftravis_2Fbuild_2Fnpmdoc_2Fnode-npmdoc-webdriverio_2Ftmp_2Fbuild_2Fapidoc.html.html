@@ -1,0 +1,336 @@
+<html><head></head><body><div class="apidocDiv">
+<style>
+/*csslint
+*/
+.apidocDiv {
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apidocDiv a[href] {
+    color: #33f;
+    font-weight: bold;
+    text-decoration: none;
+}
+.apidocDiv a[href]:hover {
+    text-decoration: underline;
+}
+.apidocCodeCommentSpan {
+    background: #bbf;
+    color: #000;
+    display: block;
+}
+.apidocCodeKeywordSpan {
+    color: #d00;
+    font-weight: bold;
+}
+.apidocCodePre {
+    background: #eef;
+    border: 1px solid;
+    color: #777;
+    padding: 5px;
+    white-space: pre-wrap;
+}
+.apidocFooterDiv {
+    margin-top: 20px;
+    text-align: center;
+}
+.apidocModuleLi {
+    margin-top: 10px;
+}
+.apidocSectionDiv {
+    border-top: 1px solid;
+    margin-top: 20px;
+}
+.apidocSignatureSpan {
+    color: #777;
+    font-weight: bold;
+}
+</style>
+<h1>api documentation for
+    <a href="http://webdriver.io">webdriverio (v4.6.2)</a>
+</h1>
+<h4>A nodejs bindings implementation for selenium 2.0/webdriver</h4>
+<div class="apidocSectionDiv"><a href="#apidoc.tableOfContents" id="apidoc.tableOfContents"><h1>table of contents</h1></a><ol>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.webdriverio">module webdriverio</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.webdriverio.ErrorHandler">
+            function <span class="apidocSignatureSpan">webdriverio.</span>ErrorHandler
+            <span class="apidocSignatureSpan">(type, msg, details)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.webdriverio.Launcher">
+            function <span class="apidocSignatureSpan">webdriverio.</span>Launcher
+            <span class="apidocSignatureSpan">(configFile, argv)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.webdriverio.multiremote">
+            function <span class="apidocSignatureSpan">webdriverio.</span>multiremote
+            <span class="apidocSignatureSpan">(options)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.webdriverio.remote">
+            function <span class="apidocSignatureSpan">webdriverio.</span>remote
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">string <span class="apidocSignatureSpan">webdriverio.</span>VERSION</span>
+
+        </li>
+
+    </ol></li>
+
+</ol></div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.webdriverio" id="apidoc.module.webdriverio">module webdriverio</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.webdriverio.ErrorHandler" id="apidoc.element.webdriverio.ErrorHandler">
+        function <span class="apidocSignatureSpan">webdriverio.</span>ErrorHandler
+        <span class="apidocSignatureSpan">(type, msg, details)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function ErrorHandler(type, msg, details) {
+    (0, _classCallCheck3.default)(this, ErrorHandler);
+
+    var _this = (0, _possibleConstructorReturn3.default)(this, (ErrorHandler.__proto__ || (0, _getPrototypeOf2.default)(ErrorHandler
+)).call(this));
+
+    Error.captureStackTrace(_this, _this.constructor);
+
+    if (typeof msg === 'number') {
+        // if ID is not known error throw UnknownError
+        if (!_constants.ERROR_CODES[msg]) {
+            msg = 13;
+        }
+
+        _this.type = _constants.ERROR_CODES[msg].id;
+        _this.message = _constants.ERROR_CODES[msg].message;
+
+        if (msg === 7 &amp;&amp; details) {
+            _this.message = _this.message.slice(0, -1) + ' ("' + details + '").';
+        }
+    } else if (arguments.length === 2) {
+        _this.message = msg;
+        _this.type = type;
+    } else if (arguments.length === 1) {
+        _this.type = 'WebdriverIOError';
+        _this.message = type;
+    }
+
+    if ((0, _typeof3.default)(_this.message) === 'object') {
+        var seleniumStack = _this.message;
+
+        if (seleniumStack.screenshot) {
+            _this.screenshot = seleniumStack.screenshot;
+            delete seleniumStack.screenshot;
+        }
+
+        if (seleniumStack.message &amp;&amp; seleniumStack.type &amp;&amp; seleniumStack.status) {
+            if (typeof seleniumStack.orgStatusMessage === 'string' &amp;&amp; seleniumStack.orgStatusMessage.match(/"errorMessage":"NoSuchElement
+"/)) {
+                seleniumStack.type = 'NoSuchElement';
+                seleniumStack.status = 7;
+                seleniumStack.message = _constants.ERROR_CODES['7'].message;
+            }
+
+            _this.message = seleniumStack.message + ' (' + seleniumStack.type + ':' + seleniumStack.status + ')';
+        }
+
+        if (typeof seleniumStack.orgStatusMessage === 'string') {
+            var reqPos = seleniumStack.orgStatusMessage.indexOf(',"request"');
+            var problem = '';
+
+            if (reqPos &gt; 0) {
+                problem = JSON.parse(seleniumStack.orgStatusMessage.slice(0, reqPos) + '}').errorMessage;
+            } else {
+                problem = seleniumStack.orgStatusMessage;
+            }
+
+            if (problem.indexOf('No enum constant org.openqa.selenium.Platform') &gt; -1) {
+                problem = 'The Selenium backend you\'ve chosen doesn\'t support the desired platform (' + problem.slice(46) + ')';
+            }
+
+            // truncate errorMessage
+            if (problem.indexOf('(Session info:') &gt; -1) {
+                problem = problem.slice(0, problem.indexOf('(Session info:')).trim();
+            }
+
+            // make assumption based on experience on certain error messages
+            if (problem.indexOf('unknown error: path is not absolute') !== -1) {
+                problem = 'You are trying to set a value to an input field with type="file", use the `uploadFile` command instead
+ (Selenium error: ' + problem + ')';
+            }
+
+            _this.message = problem;
+            _this.seleniumStack = seleniumStack;
+        }
+    }
+    return _this;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.webdriverio.Launcher" id="apidoc.element.webdriverio.Launcher">
+        function <span class="apidocSignatureSpan">webdriverio.</span>Launcher
+        <span class="apidocSignatureSpan">(configFile, argv)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Launcher(configFile, argv) {
+    (0, _classCallCheck3.default)(this, Launcher);
+
+    this.configParser = new _ConfigParser2.default();
+    this.configParser.addConfigFile(configFile);
+    this.configParser.merge(argv);
+
+    this.reporters = this.initReporters();
+
+    this.argv = argv;
+    this.configFile = configFile;
+
+    this.exitCode = 0;
+    this.hasTriggeredExitRoutine = false;
+    this.hasStartedAnyProcess = false;
+    this.processes = [];
+    this.schedule = [];
+    this.rid = [];
+    this.processesStarted = 0;
+    this.runnerFailed = 0;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.webdriverio.multiremote" id="apidoc.element.webdriverio.multiremote">
+        function <span class="apidocSignatureSpan">webdriverio.</span>multiremote
+        <span class="apidocSignatureSpan">(options)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function multiremote(options) {
+    var multibrowser = new _multibrowser2.default();
+
+    var _iteratorNormalCompletion2 = true;
+    var _didIteratorError2 = false;
+    var _iteratorError2 = undefined;
+
+    try {
+        for (var _iterator2 = (0, _getIterator3.default)((0, _keys2.default)(options)), _step2; !(_iteratorNormalCompletion2 = (
+_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
+            var browserName = _step2.value;
+
+            multibrowser.addInstance(browserName, remote(options[browserName], multibrowser.getInstanceModifier()));
+        }
+    } catch (err) {
+        _didIteratorError2 = true;
+        _iteratorError2 = err;
+    } finally {
+        try {
+            if (!_iteratorNormalCompletion2 &amp;&amp; _iterator2.return) {
+                _iterator2.return();
+            }
+        } finally {
+            if (_didIteratorError2) {
+                throw _iteratorError2;
+            }
+        }
+    }
+
+    return remote(options, multibrowser.getModifier());
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.webdriverio.remote" id="apidoc.element.webdriverio.remote">
+        function <span class="apidocSignatureSpan">webdriverio.</span>remote
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function remote() {
+    var options = arguments.length &gt; 0 &amp;&amp; arguments[0] !== undefined ? arguments[0] : {};
+    var modifier = arguments[1];
+
+<span class="apidocCodeCommentSpan">    /**
+     * initialise monad
+     */
+</span>    var wdio = (0, _webdriverio2.default)(options, modifier);
+
+    /**
+     * build prototype: commands
+     */
+    var _iteratorNormalCompletion = true;
+    var _didIteratorError = false;
+    var _iteratorError = undefined;
+
+    try {
+        for (var _iterator = (0, _getIterator3.default)((0, _keys2.default)(IMPLEMENTED_COMMANDS)), _step; !(_iteratorNormalCompletion
+ = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+            var commandName = _step.value;
+
+            wdio.lift(commandName, IMPLEMENTED_COMMANDS[commandName]);
+        }
+    } catch (err) {
+        _didIteratorError = true;
+        _iteratorError = err;
+    } finally {
+        try {
+            if (!_iteratorNormalCompletion &amp;&amp; _iterator.return) {
+                _iterator.return();
+            }
+        } finally {
+            if (_didIteratorError) {
+                throw _iteratorError;
+            }
+        }
+    }
+
+    var prototype = wdio();
+    prototype.defer.resolve();
+    return prototype;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+
+</div>
+
+<div class="apidocFooterDiv">
+    [ this document was created with
+    <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a>
+    ]
+</div>
+</div>
+</body></html>
