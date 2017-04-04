@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/webdriverio.png?downloads=true)](https://www.npmjs.com/package/webdriverio)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webdriverio/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-webdriverio_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webdriverio/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webdriverio/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-webdriverio_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webdriverio/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-webdriverio/build/screenCapture.npmPackageListing.svg)
 
