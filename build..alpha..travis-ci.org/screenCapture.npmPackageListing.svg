@@ -1,504 +1,504 @@
 <svg height="8014" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="8014" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-04 09:04:37 +0000  1125658 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-04 09:04:37 +0000    15425 byte  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-04 09:04:37 +0000     6964 byte  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-04 09:04:37 +0000     1090 byte  LICENSE-MIT</tspan>
-<tspan x="10" y="90">  4.  2017-04-04 09:04:37 +0000     4723 byte  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-04 09:04:37 +0000      109 byte  bin/wdio</tspan>
-<tspan x="10" y="122">  6.  2017-04-04 09:04:37 +0000     4342 byte  build/index.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-04 09:04:37 +0000    17319 byte  build/lib/cli.js</tspan>
-<tspan x="10" y="154">ls: cannot access build/lib/commands/8629.js: No such file or directory</tspan>
-<tspan x="10" y="170">  8.  2017-04-04 09:04:37 +0000    17319 byte  build/lib/commands/$$.js</tspan>
-<tspan x="10" y="186">  9.  2017-04-04 09:04:37 +0000     1258 byte  build/lib/commands/$.js</tspan>
-<tspan x="10" y="202"> 10.  2017-04-04 09:04:37 +0000     1674 byte  build/lib/commands/addCommand.js</tspan>
-<tspan x="10" y="218"> 11.  2017-04-04 09:04:37 +0000     3201 byte  build/lib/commands/addValue.js</tspan>
-<tspan x="10" y="234"> 12.  2017-04-04 09:04:37 +0000     1322 byte  build/lib/commands/call.js</tspan>
-<tspan x="10" y="250"> 13.  2017-04-04 09:04:37 +0000     2266 byte  build/lib/commands/chooseFile.js</tspan>
-<tspan x="10" y="266"> 14.  2017-04-04 09:04:37 +0000     2634 byte  build/lib/commands/clearElement.js</tspan>
-<tspan x="10" y="282"> 15.  2017-04-04 09:04:37 +0000     1672 byte  build/lib/commands/click.js</tspan>
-<tspan x="10" y="298"> 16.  2017-04-04 09:04:37 +0000     1531 byte  build/lib/commands/close.js</tspan>
-<tspan x="10" y="314"> 17.  2017-04-04 09:04:37 +0000     4385 byte  build/lib/commands/debug.js</tspan>
-<tspan x="10" y="330"> 18.  2017-04-04 09:04:37 +0000     1493 byte  build/lib/commands/deleteCookie.js</tspan>
-<tspan x="10" y="346"> 19.  2017-04-04 09:04:37 +0000     1927 byte  build/lib/commands/doubleClick.js</tspan>
-<tspan x="10" y="362"> 20.  2017-04-04 09:04:37 +0000     1177 byte  build/lib/commands/dragAndDrop.js</tspan>
-<tspan x="10" y="378"> 21.  2017-04-04 09:04:37 +0000      903 byte  build/lib/commands/end.js</tspan>
-<tspan x="10" y="394"> 22.  2017-04-04 09:04:37 +0000     1684 byte  build/lib/commands/endAll.js</tspan>
-<tspan x="10" y="410"> 23.  2017-04-04 09:04:37 +0000     3591 byte  build/lib/commands/getAttribute.js</tspan>
-<tspan x="10" y="426"> 24.  2017-04-04 09:04:37 +0000     2806 byte  build/lib/commands/getCommandHistory.js</tspan>
-<tspan x="10" y="442"> 25.  2017-04-04 09:04:37 +0000     1593 byte  build/lib/commands/getCookie.js</tspan>
-<tspan x="10" y="458"> 26.  2017-04-04 09:04:37 +0000     4905 byte  build/lib/commands/getCssProperty.js</tspan>
-<tspan x="10" y="474"> 27.  2017-04-04 09:04:37 +0000      844 byte  build/lib/commands/getCurrentTabId.js</tspan>
-<tspan x="10" y="490"> 28.  2017-04-04 09:04:37 +0000     3612 byte  build/lib/commands/getElementSize.js</tspan>
-<tspan x="10" y="506"> 29.  2017-04-04 09:04:37 +0000      865 byte  build/lib/commands/getGeoLocation.js</tspan>
-<tspan x="10" y="522"> 30.  2017-04-04 09:04:37 +0000     1781 byte  build/lib/commands/getGridNodeDetails.js</tspan>
-<tspan x="10" y="538"> 31.  2017-04-04 09:04:37 +0000     2028 byte  build/lib/commands/getHTML.js</tspan>
-<tspan x="10" y="554"> 32.  2017-04-04 09:04:37 +0000     3112 byte  build/lib/commands/getLocation.js</tspan>
-<tspan x="10" y="570"> 33.  2017-04-04 09:04:37 +0000     3569 byte  build/lib/commands/getLocationInView.js</tspan>
-<tspan x="10" y="586"> 34.  2017-04-04 09:04:37 +0000     1139 byte  build/lib/commands/getOrientation.js</tspan>
-<tspan x="10" y="602"> 35.  2017-04-04 09:04:37 +0000      901 byte  build/lib/commands/getSource.js</tspan>
-<tspan x="10" y="618"> 36.  2017-04-04 09:04:37 +0000     1042 byte  build/lib/commands/getTabIds.js</tspan>
-<tspan x="10" y="634"> 37.  2017-04-04 09:04:37 +0000     2512 byte  build/lib/commands/getTagName.js</tspan>
-<tspan x="10" y="650"> 38.  2017-04-04 09:04:37 +0000     3565 byte  build/lib/commands/getText.js</tspan>
-<tspan x="10" y="666"> 39.  2017-04-04 09:04:37 +0000      875 byte  build/lib/commands/getTitle.js</tspan>
-<tspan x="10" y="682"> 40.  2017-04-04 09:04:37 +0000      706 byte  build/lib/commands/getUrl.js</tspan>
-<tspan x="10" y="698"> 41.  2017-04-04 09:04:37 +0000     2532 byte  build/lib/commands/getValue.js</tspan>
-<tspan x="10" y="714"> 42.  2017-04-04 09:04:37 +0000     1791 byte  build/lib/commands/getViewportSize.js</tspan>
-<tspan x="10" y="730"> 43.  2017-04-04 09:04:37 +0000     1281 byte  build/lib/commands/hasFocus.js</tspan>
-<tspan x="10" y="746"> 44.  2017-04-04 09:04:37 +0000      846 byte  build/lib/commands/hold.js</tspan>
-<tspan x="10" y="762"> 45.  2017-04-04 09:04:37 +0000     2896 byte  build/lib/commands/isEnabled.js</tspan>
-<tspan x="10" y="778"> 46.  2017-04-04 09:04:37 +0000     1647 byte  build/lib/commands/isExisting.js</tspan>
-<tspan x="10" y="794"> 47.  2017-04-04 09:04:37 +0000     2962 byte  build/lib/commands/isSelected.js</tspan>
-<tspan x="10" y="810"> 48.  2017-04-04 09:04:37 +0000     3038 byte  build/lib/commands/isVisible.js</tspan>
-<tspan x="10" y="826"> 49.  2017-04-04 09:04:37 +0000     2399 byte  build/lib/commands/isVisibleWithinViewport.js</tspan>
-<tspan x="10" y="842"> 50.  2017-04-04 09:04:37 +0000     1062 byte  build/lib/commands/leftClick.js</tspan>
-<tspan x="10" y="858"> 51.  2017-04-04 09:04:37 +0000     1074 byte  build/lib/commands/middleClick.js</tspan>
-<tspan x="10" y="874"> 52.  2017-04-04 09:04:37 +0000     2499 byte  build/lib/commands/moveToObject.js</tspan>
-<tspan x="10" y="890"> 53.  2017-04-04 09:04:37 +0000     2386 byte  build/lib/commands/newWindow.js</tspan>
-<tspan x="10" y="906"> 54.  2017-04-04 09:04:37 +0000     1261 byte  build/lib/commands/pause.js</tspan>
-<tspan x="10" y="922"> 55.  2017-04-04 09:04:37 +0000      521 byte  build/lib/commands/release.js</tspan>
-<tspan x="10" y="938"> 56.  2017-04-04 09:04:37 +0000     1742 byte  build/lib/commands/reload.js</tspan>
-<tspan x="10" y="954"> 57.  2017-04-04 09:04:37 +0000     1068 byte  build/lib/commands/rightClick.js</tspan>
-<tspan x="10" y="970"> 58.  2017-04-04 09:04:37 +0000     1975 byte  build/lib/commands/saveScreenshot.js</tspan>
-<tspan x="10" y="986"> 59.  2017-04-04 09:04:37 +0000     3079 byte  build/lib/commands/scroll.js</tspan>
-<tspan x="10" y="1002"> 60.  2017-04-04 09:04:37 +0000     2741 byte  build/lib/commands/selectByAttribute.js</tspan>
-<tspan x="10" y="1018"> 61.  2017-04-04 09:04:37 +0000     2407 byte  build/lib/commands/selectByIndex.js</tspan>
-<tspan x="10" y="1034"> 62.  2017-04-04 09:04:37 +0000     1312 byte  build/lib/commands/selectByValue.js</tspan>
-<tspan x="10" y="1050"> 63.  2017-04-04 09:04:37 +0000     2525 byte  build/lib/commands/selectByVisibleText.js</tspan>
-<tspan x="10" y="1066"> 64.  2017-04-04 09:04:37 +0000     4459 byte  build/lib/commands/selectorExecute.js</tspan>
-<tspan x="10" y="1082"> 65.  2017-04-04 09:04:37 +0000     4647 byte  build/lib/commands/selectorExecuteAsync.js</tspan>
-<tspan x="10" y="1098"> 66.  2017-04-04 09:04:37 +0000     1613 byte  build/lib/commands/setCookie.js</tspan>
-<tspan x="10" y="1114"> 67.  2017-04-04 09:04:37 +0000     1131 byte  build/lib/commands/setGeoLocation.js</tspan>
-<tspan x="10" y="1130"> 68.  2017-04-04 09:04:37 +0000     1106 byte  build/lib/commands/setOrientation.js</tspan>
-<tspan x="10" y="1146"> 69.  2017-04-04 09:04:37 +0000     3160 byte  build/lib/commands/setValue.js</tspan>
-<tspan x="10" y="1162"> 70.  2017-04-04 09:04:37 +0000     3824 byte  build/lib/commands/setViewportSize.js</tspan>
-<tspan x="10" y="1178"> 71.  2017-04-04 09:04:37 +0000     1533 byte  build/lib/commands/submitForm.js</tspan>
-<tspan x="10" y="1194"> 72.  2017-04-04 09:04:37 +0000     1621 byte  build/lib/commands/swipe.js</tspan>
-<tspan x="10" y="1210"> 73.  2017-04-04 09:04:37 +0000      900 byte  build/lib/commands/swipeDown.js</tspan>
-<tspan x="10" y="1226"> 74.  2017-04-04 09:04:37 +0000      920 byte  build/lib/commands/swipeLeft.js</tspan>
-<tspan x="10" y="1242"> 75.  2017-04-04 09:04:37 +0000      925 byte  build/lib/commands/swipeRight.js</tspan>
-<tspan x="10" y="1258"> 76.  2017-04-04 09:04:37 +0000      910 byte  build/lib/commands/swipeUp.js</tspan>
-<tspan x="10" y="1274"> 77.  2017-04-04 09:04:37 +0000      923 byte  build/lib/commands/switchTab.js</tspan>
-<tspan x="10" y="1290"> 78.  2017-04-04 09:04:37 +0000      944 byte  build/lib/commands/touch.js</tspan>
-<tspan x="10" y="1306"> 79.  2017-04-04 09:04:37 +0000    10630 byte  build/lib/commands/touchAction.js</tspan>
-<tspan x="10" y="1322"> 80.  2017-04-04 09:04:37 +0000     1921 byte  build/lib/commands/uploadFile.js</tspan>
-<tspan x="10" y="1338"> 81.  2017-04-04 09:04:37 +0000     3928 byte  build/lib/commands/waitForEnabled.js</tspan>
-<tspan x="10" y="1354"> 82.  2017-04-04 09:04:37 +0000     3947 byte  build/lib/commands/waitForExist.js</tspan>
-<tspan x="10" y="1370"> 83.  2017-04-04 09:04:37 +0000     4102 byte  build/lib/commands/waitForSelected.js</tspan>
-<tspan x="10" y="1386"> 84.  2017-04-04 09:04:37 +0000     3852 byte  build/lib/commands/waitForText.js</tspan>
-<tspan x="10" y="1402"> 85.  2017-04-04 09:04:37 +0000     3881 byte  build/lib/commands/waitForValue.js</tspan>
-<tspan x="10" y="1418"> 86.  2017-04-04 09:04:37 +0000     3906 byte  build/lib/commands/waitForVisible.js</tspan>
-<tspan x="10" y="1434"> 87.  2017-04-04 09:04:37 +0000     4020 byte  build/lib/commands/waitUntil.js</tspan>
-<tspan x="10" y="1450"> 88.  2017-04-04 09:04:37 +0000     6132 byte  build/lib/helpers/constants.js</tspan>
-<tspan x="10" y="1466"> 89.  2017-04-04 09:04:37 +0000     1119 byte  build/lib/helpers/detectSeleniumBackend.js</tspan>
-<tspan x="10" y="1482"> 90.  2017-04-04 09:04:37 +0000     1038 byte  build/lib/helpers/ensureClientSideSelectorSupport\</tspan>
-<tspan x="10" y="1498">.js</tspan>
-<tspan x="10" y="1514"> 91.  2017-04-04 09:04:37 +0000     3733 byte  build/lib/helpers/errorHandler.js</tspan>
-<tspan x="10" y="1530"> 92.  2017-04-04 09:04:37 +0000     5952 byte  build/lib/helpers/findElementStrategy.js</tspan>
-<tspan x="10" y="1546"> 93.  2017-04-04 09:04:37 +0000     2916 byte  build/lib/helpers/getImplementedCommands.js</tspan>
-<tspan x="10" y="1562"> 94.  2017-04-04 09:04:37 +0000     1439 byte  build/lib/helpers/handleMouseButtonCommand.js</tspan>
-<tspan x="10" y="1578"> 95.  2017-04-04 09:04:37 +0000      545 byte  build/lib/helpers/handleMouseButtonProtocol.js</tspan>
-<tspan x="10" y="1594"> 96.  2017-04-04 09:04:37 +0000      894 byte  build/lib/helpers/hasElementResultHelper.js</tspan>
-<tspan x="10" y="1610"> 97.  2017-04-04 09:04:37 +0000     1278 byte  build/lib/helpers/mobileDetector.js</tspan>
-<tspan x="10" y="1626"> 98.  2017-04-04 09:04:37 +0000     3484 byte  build/lib/helpers/parseCSS.js</tspan>
-<tspan x="10" y="1642"> 99.  2017-04-04 09:04:37 +0000     1007 byte  build/lib/helpers/safeExecute.js</tspan>
-<tspan x="10" y="1658">100.  2017-04-04 09:04:37 +0000     4065 byte  build/lib/helpers/sanitize.js</tspan>
-<tspan x="10" y="1674">101.  2017-04-04 09:04:37 +0000    12176 byte  build/lib/helpers/wdio.conf.ejs</tspan>
-<tspan x="10" y="1690">102.  2017-04-04 09:04:37 +0000    28652 byte  build/lib/launcher.js</tspan>
-<tspan x="10" y="1706">103.  2017-04-04 09:04:37 +0000     8229 byte  build/lib/multibrowser.js</tspan>
-<tspan x="10" y="1722">104.  2017-04-04 09:04:37 +0000      926 byte  build/lib/protocol/alertAccept.js</tspan>
-<tspan x="10" y="1738">105.  2017-04-04 09:04:37 +0000     1022 byte  build/lib/protocol/alertDismiss.js</tspan>
-<tspan x="10" y="1754">106.  2017-04-04 09:04:37 +0000     1310 byte  build/lib/protocol/alertText.js</tspan>
-<tspan x="10" y="1770">107.  2017-04-04 09:04:37 +0000      660 byte  build/lib/protocol/applicationCacheStatus.js</tspan>
-<tspan x="10" y="1786">108.  2017-04-04 09:04:37 +0000      821 byte  build/lib/protocol/back.js</tspan>
-<tspan x="10" y="1802">109.  2017-04-04 09:04:37 +0000      823 byte  build/lib/protocol/background.js</tspan>
-<tspan x="10" y="1818">110.  2017-04-04 09:04:37 +0000     1154 byte  build/lib/protocol/buttonDown.js</tspan>
-<tspan x="10" y="1834">111.  2017-04-04 09:04:37 +0000     1012 byte  build/lib/protocol/buttonPress.js</tspan>
-<tspan x="10" y="1850">112.  2017-04-04 09:04:37 +0000     1089 byte  build/lib/protocol/buttonUp.js</tspan>
-<tspan x="10" y="1866">113.  2017-04-04 09:04:37 +0000      575 byte  build/lib/protocol/closeApp.js</tspan>
-<tspan x="10" y="1882">114.  2017-04-04 09:04:37 +0000      792 byte  build/lib/protocol/context.js</tspan>
-<tspan x="10" y="1898">115.  2017-04-04 09:04:37 +0000      544 byte  build/lib/protocol/contexts.js</tspan>
-<tspan x="10" y="1914">116.  2017-04-04 09:04:37 +0000     2000 byte  build/lib/protocol/cookie.js</tspan>
-<tspan x="10" y="1930">117.  2017-04-04 09:04:37 +0000      754 byte  build/lib/protocol/currentActivity.js</tspan>
-<tspan x="10" y="1946">118.  2017-04-04 09:04:37 +0000      749 byte  build/lib/protocol/deviceKeyEvent.js</tspan>
-<tspan x="10" y="1962">119.  2017-04-04 09:04:37 +0000      575 byte  build/lib/protocol/doDoubleClick.js</tspan>
-<tspan x="10" y="1978">120.  2017-04-04 09:04:37 +0000     2681 byte  build/lib/protocol/element.js</tspan>
-<tspan x="10" y="1994">121.  2017-04-04 09:04:37 +0000      634 byte  build/lib/protocol/elementActive.js</tspan>
-<tspan x="10" y="2010">122.  2017-04-04 09:04:37 +0000     1107 byte  build/lib/protocol/elementIdAttribute.js</tspan>
-<tspan x="10" y="2026">123.  2017-04-04 09:04:37 +0000      867 byte  build/lib/protocol/elementIdClear.js</tspan>
-<tspan x="10" y="2042">124.  2017-04-04 09:04:37 +0000      837 byte  build/lib/protocol/elementIdClick.js</tspan>
-<tspan x="10" y="2058">125.  2017-04-04 09:04:37 +0000     1240 byte  build/lib/protocol/elementIdCssProperty.js</tspan>
-<tspan x="10" y="2074">126.  2017-04-04 09:04:37 +0000      922 byte  build/lib/protocol/elementIdDisplayed.js</tspan>
-<tspan x="10" y="2090">127.  2017-04-04 09:04:37 +0000     2138 byte  build/lib/protocol/elementIdElement.js</tspan>
-<tspan x="10" y="2106">128.  2017-04-04 09:04:37 +0000     1595 byte  build/lib/protocol/elementIdElements.js</tspan>
-<tspan x="10" y="2122">129.  2017-04-04 09:04:37 +0000      887 byte  build/lib/protocol/elementIdEnabled.js</tspan>
-<tspan x="10" y="2138">130.  2017-04-04 09:04:37 +0000     1190 byte  build/lib/protocol/elementIdLocation.js</tspan>
-<tspan x="10" y="2154">131.  2017-04-04 09:04:37 +0000     1265 byte  build/lib/protocol/elementIdLocationInView.js</tspan>
-<tspan x="10" y="2170">132.  2017-04-04 09:04:37 +0000      876 byte  build/lib/protocol/elementIdName.js</tspan>
-<tspan x="10" y="2186">133.  2017-04-04 09:04:37 +0000      854 byte  build/lib/protocol/elementIdRect.js</tspan>
-<tspan x="10" y="2202">134.  2017-04-04 09:04:37 +0000      962 byte  build/lib/protocol/elementIdSelected.js</tspan>
-<tspan x="10" y="2218">135.  2017-04-04 09:04:37 +0000     1092 byte  build/lib/protocol/elementIdSize.js</tspan>
-<tspan x="10" y="2234">136.  2017-04-04 09:04:37 +0000      857 byte  build/lib/protocol/elementIdText.js</tspan>
-<tspan x="10" y="2250">137.  2017-04-04 09:04:37 +0000     3022 byte  build/lib/protocol/elementIdValue.js</tspan>
-<tspan x="10" y="2266">138.  2017-04-04 09:04:37 +0000     3832 byte  build/lib/protocol/elements.js</tspan>
-<tspan x="10" y="2282">139.  2017-04-04 09:04:37 +0000     2857 byte  build/lib/protocol/execute.js</tspan>
-<tspan x="10" y="2298">140.  2017-04-04 09:04:37 +0000     3377 byte  build/lib/protocol/executeAsync.js</tspan>
-<tspan x="10" y="2314">141.  2017-04-04 09:04:37 +0000      448 byte  build/lib/protocol/file.js</tspan>
-<tspan x="10" y="2330">142.  2017-04-04 09:04:37 +0000      839 byte  build/lib/protocol/forward.js</tspan>
-<tspan x="10" y="2346">143.  2017-04-04 09:04:37 +0000     1051 byte  build/lib/protocol/frame.js</tspan>
-<tspan x="10" y="2362">144.  2017-04-04 09:04:37 +0000      566 byte  build/lib/protocol/frameParent.js</tspan>
-<tspan x="10" y="2378">145.  2017-04-04 09:04:37 +0000      636 byte  build/lib/protocol/getAppStrings.js</tspan>
-<tspan x="10" y="2394">146.  2017-04-04 09:04:37 +0000      850 byte  build/lib/protocol/getCurrentDeviceActivity.js</tspan>
-<tspan x="10" y="2410">147.  2017-04-04 09:04:37 +0000      505 byte  build/lib/protocol/getDeviceTime.js</tspan>
-<tspan x="10" y="2426">148.  2017-04-04 09:04:37 +0000     1819 byte  build/lib/protocol/getNetworkConnection.js</tspan>
-<tspan x="10" y="2442">149.  2017-04-04 09:04:37 +0000     1419 byte  build/lib/protocol/gridProxyDetails.js</tspan>
-<tspan x="10" y="2458">150.  2017-04-04 09:04:37 +0000     1409 byte  build/lib/protocol/gridTestSession.js</tspan>
-<tspan x="10" y="2474">151.  2017-04-04 09:04:37 +0000     1242 byte  build/lib/protocol/hideDeviceKeyboard.js</tspan>
-<tspan x="10" y="2490">152.  2017-04-04 09:04:37 +0000     1227 byte  build/lib/protocol/imeActivate.js</tspan>
-<tspan x="10" y="2506">153.  2017-04-04 09:04:37 +0000      639 byte  build/lib/protocol/imeActivated.js</tspan>
-<tspan x="10" y="2522">154.  2017-04-04 09:04:37 +0000      626 byte  build/lib/protocol/imeActiveEngine.js</tspan>
-<tspan x="10" y="2538">155.  2017-04-04 09:04:37 +0000      661 byte  build/lib/protocol/imeAvailableEngines.js</tspan>
-<tspan x="10" y="2554">156.  2017-04-04 09:04:37 +0000      516 byte  build/lib/protocol/imeDeactivated.js</tspan>
-<tspan x="10" y="2570">157.  2017-04-04 09:04:37 +0000     2647 byte  build/lib/protocol/init.js</tspan>
-<tspan x="10" y="2586">158.  2017-04-04 09:04:37 +0000     1041 byte  build/lib/protocol/installApp.js</tspan>
-<tspan x="10" y="2602">159.  2017-04-04 09:04:37 +0000     1163 byte  build/lib/protocol/isAppInstalled.js</tspan>
-<tspan x="10" y="2618">160.  2017-04-04 09:04:37 +0000      695 byte  build/lib/protocol/isLocked.js</tspan>
-<tspan x="10" y="2634">161.  2017-04-04 09:04:37 +0000     2991 byte  build/lib/protocol/keys.js</tspan>
-<tspan x="10" y="2650">162.  2017-04-04 09:04:37 +0000      954 byte  build/lib/protocol/launch.js</tspan>
-<tspan x="10" y="2666">163.  2017-04-04 09:04:37 +0000     2294 byte  build/lib/protocol/localStorage.js</tspan>
-<tspan x="10" y="2682">164.  2017-04-04 09:04:37 +0000      588 byte  build/lib/protocol/localStorageSize.js</tspan>
-<tspan x="10" y="2698">165.  2017-04-04 09:04:37 +0000     1594 byte  build/lib/protocol/location.js</tspan>
-<tspan x="10" y="2714">166.  2017-04-04 09:04:37 +0000      926 byte  build/lib/protocol/lock.js</tspan>
-<tspan x="10" y="2730">167.  2017-04-04 09:04:37 +0000     1978 byte  build/lib/protocol/log.js</tspan>
-<tspan x="10" y="2746">168.  2017-04-04 09:04:37 +0000      947 byte  build/lib/protocol/logTypes.js</tspan>
-<tspan x="10" y="2762">169.  2017-04-04 09:04:37 +0000      814 byte  build/lib/protocol/longPressKeycode.js</tspan>
-<tspan x="10" y="2778">170.  2017-04-04 09:04:37 +0000     2746 byte  build/lib/protocol/moveTo.js</tspan>
-<tspan x="10" y="2794">171.  2017-04-04 09:04:37 +0000      545 byte  build/lib/protocol/openNotifications.js</tspan>
-<tspan x="10" y="2810">172.  2017-04-04 09:04:37 +0000     1511 byte  build/lib/protocol/orientation.js</tspan>
-<tspan x="10" y="2826">173.  2017-04-04 09:04:37 +0000      759 byte  build/lib/protocol/performMultiAction.js</tspan>
-<tspan x="10" y="2842">174.  2017-04-04 09:04:37 +0000     1196 byte  build/lib/protocol/performTouchAction.js</tspan>
-<tspan x="10" y="2858">175.  2017-04-04 09:04:37 +0000      784 byte  build/lib/protocol/pressKeycode.js</tspan>
-<tspan x="10" y="2874">176.  2017-04-04 09:04:37 +0000      918 byte  build/lib/protocol/pullFile.js</tspan>
-<tspan x="10" y="2890">177.  2017-04-04 09:04:37 +0000      849 byte  build/lib/protocol/pullFolder.js</tspan>
-<tspan x="10" y="2906">178.  2017-04-04 09:04:37 +0000     1100 byte  build/lib/protocol/pushFile.js</tspan>
-<tspan x="10" y="2922">179.  2017-04-04 09:04:37 +0000      439 byte  build/lib/protocol/refresh.js</tspan>
-<tspan x="10" y="2938">180.  2017-04-04 09:04:37 +0000      971 byte  build/lib/protocol/removeApp.js</tspan>
-<tspan x="10" y="2954">181.  2017-04-04 09:04:37 +0000      622 byte  build/lib/protocol/reset.js</tspan>
-<tspan x="10" y="2970">182.  2017-04-04 09:04:37 +0000     1988 byte  build/lib/protocol/rotate.js</tspan>
-<tspan x="10" y="2986">183.  2017-04-04 09:04:37 +0000      586 byte  build/lib/protocol/screenshot.js</tspan>
-<tspan x="10" y="3002">184.  2017-04-04 09:04:37 +0000     3391 byte  build/lib/protocol/session.js</tspan>
-<tspan x="10" y="3018">185.  2017-04-04 09:04:37 +0000     2328 byte  build/lib/protocol/sessionStorage.js</tspan>
-<tspan x="10" y="3034">186.  2017-04-04 09:04:37 +0000      605 byte  build/lib/protocol/sessionStorageSize.js</tspan>
-<tspan x="10" y="3050">187.  2017-04-04 09:04:37 +0000      994 byte  build/lib/protocol/sessions.js</tspan>
-<tspan x="10" y="3066">188.  2017-04-04 09:04:37 +0000     1103 byte  build/lib/protocol/setImmediateValue.js</tspan>
-<tspan x="10" y="3082">189.  2017-04-04 09:04:37 +0000     2289 byte  build/lib/protocol/setNetworkConnection.js</tspan>
-<tspan x="10" y="3098">190.  2017-04-04 09:04:37 +0000     1176 byte  build/lib/protocol/settings.js</tspan>
-<tspan x="10" y="3114">191.  2017-04-04 09:04:37 +0000      570 byte  build/lib/protocol/shake.js</tspan>
-<tspan x="10" y="3130">192.  2017-04-04 09:04:37 +0000      445 byte  build/lib/protocol/source.js</tspan>
-<tspan x="10" y="3146">193.  2017-04-04 09:04:37 +0000     1078 byte  build/lib/protocol/startActivity.js</tspan>
-<tspan x="10" y="3162">194.  2017-04-04 09:04:37 +0000     1701 byte  build/lib/protocol/status.js</tspan>
-<tspan x="10" y="3178">195.  2017-04-04 09:04:37 +0000     1059 byte  build/lib/protocol/strings.js</tspan>
-<tspan x="10" y="3194">196.  2017-04-04 09:04:37 +0000      994 byte  build/lib/protocol/submit.js</tspan>
-<tspan x="10" y="3210">197.  2017-04-04 09:04:37 +0000     1242 byte  build/lib/protocol/timeouts.js</tspan>
-<tspan x="10" y="3226">198.  2017-04-04 09:04:37 +0000     1189 byte  build/lib/protocol/timeoutsAsyncScript.js</tspan>
-<tspan x="10" y="3242">199.  2017-04-04 09:04:37 +0000     1462 byte  build/lib/protocol/timeoutsImplicitWait.js</tspan>
-<tspan x="10" y="3258">200.  2017-04-04 09:04:37 +0000     1057 byte  build/lib/protocol/title.js</tspan>
-<tspan x="10" y="3274">201.  2017-04-04 09:04:37 +0000      558 byte  build/lib/protocol/toggleAirplaneMode.js</tspan>
-<tspan x="10" y="3290">202.  2017-04-04 09:04:37 +0000      508 byte  build/lib/protocol/toggleData.js</tspan>
-<tspan x="10" y="3306">203.  2017-04-04 09:04:37 +0000      590 byte  build/lib/protocol/toggleLocationServices.js</tspan>
-<tspan x="10" y="3322">204.  2017-04-04 09:04:37 +0000      511 byte  build/lib/protocol/toggleWiFi.js</tspan>
-<tspan x="10" y="3338">205.  2017-04-04 09:04:37 +0000      934 byte  build/lib/protocol/touchClick.js</tspan>
-<tspan x="10" y="3354">206.  2017-04-04 09:04:37 +0000      879 byte  build/lib/protocol/touchDown.js</tspan>
-<tspan x="10" y="3370">207.  2017-04-04 09:04:37 +0000     1598 byte  build/lib/protocol/touchFlick.js</tspan>
-<tspan x="10" y="3386">208.  2017-04-04 09:04:37 +0000      941 byte  build/lib/protocol/touchId.js</tspan>
-<tspan x="10" y="3402">209.  2017-04-04 09:04:37 +0000      928 byte  build/lib/protocol/touchLongClick.js</tspan>
-<tspan x="10" y="3418">210.  2017-04-04 09:04:37 +0000      927 byte  build/lib/protocol/touchMove.js</tspan>
-<tspan x="10" y="3434">211.  2017-04-04 09:04:37 +0000     1174 byte  build/lib/protocol/touchMultiPerform.js</tspan>
-<tspan x="10" y="3450">212.  2017-04-04 09:04:37 +0000     1358 byte  build/lib/protocol/touchPerform.js</tspan>
-<tspan x="10" y="3466">213.  2017-04-04 09:04:37 +0000     1830 byte  build/lib/protocol/touchScroll.js</tspan>
-<tspan x="10" y="3482">214.  2017-04-04 09:04:37 +0000      859 byte  build/lib/protocol/touchUp.js</tspan>
-<tspan x="10" y="3498">215.  2017-04-04 09:04:37 +0000      652 byte  build/lib/protocol/unlock.js</tspan>
-<tspan x="10" y="3514">216.  2017-04-04 09:04:37 +0000      940 byte  build/lib/protocol/url.js</tspan>
-<tspan x="10" y="3530">217.  2017-04-04 09:04:37 +0000     1116 byte  build/lib/protocol/window.js</tspan>
-<tspan x="10" y="3546">218.  2017-04-04 09:04:37 +0000     1138 byte  build/lib/protocol/windowHandle.js</tspan>
-<tspan x="10" y="3562">219.  2017-04-04 09:04:37 +0000      909 byte  build/lib/protocol/windowHandleFullscreen.js</tspan>
-<tspan x="10" y="3578">220.  2017-04-04 09:04:37 +0000      872 byte  build/lib/protocol/windowHandleMaximize.js</tspan>
-<tspan x="10" y="3594">221.  2017-04-04 09:04:37 +0000     2600 byte  build/lib/protocol/windowHandlePosition.js</tspan>
-<tspan x="10" y="3610">222.  2017-04-04 09:04:37 +0000     2973 byte  build/lib/protocol/windowHandleSize.js</tspan>
-<tspan x="10" y="3626">223.  2017-04-04 09:04:37 +0000     1316 byte  build/lib/protocol/windowHandles.js</tspan>
-<tspan x="10" y="3642">224.  2017-04-04 09:04:37 +0000    32237 byte  build/lib/runner.js</tspan>
-<tspan x="10" y="3658">225.  2017-04-04 09:04:37 +0000     7284 byte  build/lib/scripts/createSelectorScript.js</tspan>
-<tspan x="10" y="3674">226.  2017-04-04 09:04:37 +0000     1521 byte  build/lib/scripts/eventSimulator.js</tspan>
-<tspan x="10" y="3690">227.  2017-04-04 09:04:37 +0000      700 byte  build/lib/scripts/getHTML.js</tspan>
-<tspan x="10" y="3706">228.  2017-04-04 09:04:37 +0000      485 byte  build/lib/scripts/getViewportSize.js</tspan>
-<tspan x="10" y="3722">229.  2017-04-04 09:04:37 +0000     1421 byte  build/lib/scripts/isWithinViewport.js</tspan>
-<tspan x="10" y="3738">230.  2017-04-04 09:04:37 +0000      873 byte  build/lib/scripts/newWindow.js</tspan>
-<tspan x="10" y="3754">231.  2017-04-04 09:04:37 +0000      240 byte  build/lib/scripts/scroll.js</tspan>
-<tspan x="10" y="3770">232.  2017-04-04 09:04:37 +0000    11786 byte  build/lib/utils/BaseReporter.js</tspan>
-<tspan x="10" y="3786">233.  2017-04-04 09:04:37 +0000    16558 byte  build/lib/utils/ConfigParser.js</tspan>
-<tspan x="10" y="3802">234.  2017-04-04 09:04:37 +0000     6087 byte  build/lib/utils/ErrorHandler.js</tspan>
-<tspan x="10" y="3818">235.  2017-04-04 09:04:37 +0000    12088 byte  build/lib/utils/Logger.js</tspan>
-<tspan x="10" y="3834">236.  2017-04-04 09:04:37 +0000    18708 byte  build/lib/utils/ReporterStats.js</tspan>
-<tspan x="10" y="3850">237.  2017-04-04 09:04:37 +0000    11012 byte  build/lib/utils/RequestHandler.js</tspan>
-<tspan x="10" y="3866">238.  2017-04-04 09:04:37 +0000     5080 byte  build/lib/utils/Timer.js</tspan>
-<tspan x="10" y="3882">239.  2017-04-04 09:04:37 +0000    25049 byte  build/lib/webdriverio.js</tspan>
-<tspan x="10" y="3898">240.  2017-04-04 09:04:37 +0000    14339 byte  build/package.json</tspan>
-<tspan x="10" y="3914">241.  2017-04-04 09:04:37 +0000     3414 byte  docs/api.md</tspan>
-<tspan x="10" y="3930">242.  2017-04-04 09:04:37 +0000     5811 byte  docs/guide.md</tspan>
-<tspan x="10" y="3946">243.  2017-04-04 09:04:37 +0000     3210 byte  docs/guide/getstarted/boilerplate.md</tspan>
-<tspan x="10" y="3962">244.  2017-04-04 09:04:37 +0000     7394 byte  docs/guide/getstarted/configuration.md</tspan>
-<tspan x="10" y="3978">245.  2017-04-04 09:04:37 +0000     2823 byte  docs/guide/getstarted/install.md</tspan>
-<tspan x="10" y="3994">246.  2017-04-04 09:04:37 +0000     3168 byte  docs/guide/getstarted/modes.md</tspan>
-<tspan x="10" y="4010">247.  2017-04-04 09:04:37 +0000     2455 byte  docs/guide/getstarted/upgrade.md</tspan>
-<tspan x="10" y="4026">248.  2017-04-04 09:04:37 +0000     6113 byte  docs/guide/getstarted/v4.md</tspan>
-<tspan x="10" y="4042">249.  2017-04-04 09:04:37 +0000     2217 byte  docs/guide/plugins/browserevent.md</tspan>
-<tspan x="10" y="4058">250.  2017-04-04 09:04:37 +0000     2318 byte  docs/guide/plugins/grunt-webdriver.md</tspan>
-<tspan x="10" y="4074">251.  2017-04-04 09:04:37 +0000     1046 byte  docs/guide/plugins/gulp-webdriver.md</tspan>
-<tspan x="10" y="4090">252.  2017-04-04 09:04:37 +0000    16875 byte  docs/guide/plugins/webdrivercss.md</tspan>
-<tspan x="10" y="4106">253.  2017-04-04 09:04:37 +0000     2476 byte  docs/guide/plugins/webdriverjs-angular.md</tspan>
-<tspan x="10" y="4122">254.  2017-04-04 09:04:37 +0000     6539 byte  docs/guide/plugins/webdriverrtc.md</tspan>
-<tspan x="10" y="4138">255.  2017-04-04 09:04:37 +0000     2804 byte  docs/guide/reporters/allure.md</tspan>
-<tspan x="10" y="4154">256.  2017-04-04 09:04:37 +0000     1151 byte  docs/guide/reporters/concise.md</tspan>
-<tspan x="10" y="4170">257.  2017-04-04 09:04:37 +0000     2548 byte  docs/guide/reporters/customreporter.md</tspan>
-<tspan x="10" y="4186">258.  2017-04-04 09:04:37 +0000      779 byte  docs/guide/reporters/dot.md</tspan>
-<tspan x="10" y="4202">259.  2017-04-04 09:04:37 +0000     4202 byte  docs/guide/reporters/json.md</tspan>
-<tspan x="10" y="4218">260.  2017-04-04 09:04:37 +0000     4753 byte  docs/guide/reporters/junit.md</tspan>
-<tspan x="10" y="4234">261.  2017-04-04 09:04:37 +0000      844 byte  docs/guide/reporters/spec.md</tspan>
-<tspan x="10" y="4250">262.  2017-04-04 09:04:37 +0000      987 byte  docs/guide/reporters/teamcity.md</tspan>
-<tspan x="10" y="4266">263.  2017-04-04 09:04:37 +0000     1661 byte  docs/guide/services/appium.md</tspan>
-<tspan x="10" y="4282">264.  2017-04-04 09:04:37 +0000     1668 byte  docs/guide/services/browserstack.md</tspan>
-<tspan x="10" y="4298">265.  2017-04-04 09:04:37 +0000     2142 byte  docs/guide/services/firefox-profile.md</tspan>
-<tspan x="10" y="4314">266.  2017-04-04 09:04:37 +0000      966 byte  docs/guide/services/phantomjs.md</tspan>
-<tspan x="10" y="4330">267.  2017-04-04 09:04:37 +0000     2376 byte  docs/guide/services/sauce.md</tspan>
-<tspan x="10" y="4346">268.  2017-04-04 09:04:37 +0000     1588 byte  docs/guide/services/selenium-standalone.md</tspan>
-<tspan x="10" y="4362">269.  2017-04-04 09:04:37 +0000     1721 byte  docs/guide/services/static-server.md</tspan>
-<tspan x="10" y="4378">270.  2017-04-04 09:04:37 +0000     1418 byte  docs/guide/services/testingbot.md</tspan>
-<tspan x="10" y="4394">271.  2017-04-04 09:04:37 +0000     6751 byte  docs/guide/services/visual-regression.md</tspan>
-<tspan x="10" y="4410">272.  2017-04-04 09:04:37 +0000     1591 byte  docs/guide/services/webpack.md</tspan>
-<tspan x="10" y="4426">273.  2017-04-04 09:04:37 +0000     2121 byte  docs/guide/testrunner/browserobject.md</tspan>
-<tspan x="10" y="4442">274.  2017-04-04 09:04:37 +0000    12623 byte  docs/guide/testrunner/configurationfile.md</tspan>
-<tspan x="10" y="4458">275.  2017-04-04 09:04:37 +0000     4017 byte  docs/guide/testrunner/debugging.md</tspan>
-<tspan x="10" y="4474">276.  2017-04-04 09:04:37 +0000     4978 byte  docs/guide/testrunner/frameworks.md</tspan>
-<tspan x="10" y="4490">277.  2017-04-04 09:04:37 +0000     4487 byte  docs/guide/testrunner/gettingstarted.md</tspan>
-<tspan x="10" y="4506">278.  2017-04-04 09:04:37 +0000     3136 byte  docs/guide/testrunner/jenkins.md</tspan>
-<tspan x="10" y="4522">279.  2017-04-04 09:04:37 +0000     5183 byte  docs/guide/testrunner/organizesuite.md</tspan>
-<tspan x="10" y="4538">280.  2017-04-04 09:04:37 +0000     6709 byte  docs/guide/testrunner/pageobjects.md</tspan>
-<tspan x="10" y="4554">281.  2017-04-04 09:04:37 +0000     2730 byte  docs/guide/testrunner/retry.md</tspan>
-<tspan x="10" y="4570">282.  2017-04-04 09:04:37 +0000     3993 byte  docs/guide/testrunner/timeouts.md</tspan>
-<tspan x="10" y="4586">283.  2017-04-04 09:04:37 +0000     1925 byte  docs/guide/usage/autocompletion.md</tspan>
-<tspan x="10" y="4602">284.  2017-04-04 09:04:37 +0000     3468 byte  docs/guide/usage/bindingscommands.md</tspan>
-<tspan x="10" y="4618">285.  2017-04-04 09:04:37 +0000     6720 byte  docs/guide/usage/cloudservices.md</tspan>
-<tspan x="10" y="4634">286.  2017-04-04 09:04:37 +0000     2976 byte  docs/guide/usage/customcommands.md</tspan>
-<tspan x="10" y="4650">287.  2017-04-04 09:04:37 +0000     1715 byte  docs/guide/usage/eventhandling.md</tspan>
-<tspan x="10" y="4666">288.  2017-04-04 09:04:37 +0000     5867 byte  docs/guide/usage/multiremote.md</tspan>
-<tspan x="10" y="4682">289.  2017-04-04 09:04:37 +0000     1718 byte  docs/guide/usage/repl.md</tspan>
-<tspan x="10" y="4698">290.  2017-04-04 09:04:37 +0000     7478 byte  docs/guide/usage/selectors.md</tspan>
-<tspan x="10" y="4714">291.  2017-04-04 09:04:37 +0000     2301 byte  docs/guide/usage/seleniumgrid.md</tspan>
-<tspan x="10" y="4730">292.  2017-04-04 09:04:37 +0000     1584 byte  docs/guide/usage/transferpromises.md</tspan>
-<tspan x="10" y="4746">293.  2017-04-04 09:04:37 +0000     7757 byte  docs/index.md</tspan>
-<tspan x="10" y="4762">ls: cannot access lib/commands/10059.js: No such file or directory</tspan>
-<tspan x="10" y="4778">294.  2017-04-04 09:04:37 +0000     7757 byte  lib/commands/$$.js</tspan>
-<tspan x="10" y="4794">295.  2017-04-04 09:04:37 +0000     1132 byte  lib/commands/$.js</tspan>
-<tspan x="10" y="4810">296.  2017-04-04 09:04:37 +0000     1660 byte  lib/commands/addCommand.js</tspan>
-<tspan x="10" y="4826">297.  2017-04-04 09:04:37 +0000     1944 byte  lib/commands/addValue.js</tspan>
-<tspan x="10" y="4842">298.  2017-04-04 09:04:37 +0000     1308 byte  lib/commands/call.js</tspan>
-<tspan x="10" y="4858">299.  2017-04-04 09:04:37 +0000     1772 byte  lib/commands/chooseFile.js</tspan>
-<tspan x="10" y="4874">300.  2017-04-04 09:04:37 +0000     1399 byte  lib/commands/clearElement.js</tspan>
-<tspan x="10" y="4890">301.  2017-04-04 09:04:37 +0000     1390 byte  lib/commands/click.js</tspan>
-<tspan x="10" y="4906">302.  2017-04-04 09:04:37 +0000     1315 byte  lib/commands/close.js</tspan>
-<tspan x="10" y="4922">303.  2017-04-04 09:04:37 +0000     3535 byte  lib/commands/debug.js</tspan>
-<tspan x="10" y="4938">304.  2017-04-04 09:04:37 +0000     1355 byte  lib/commands/deleteCookie.js</tspan>
-<tspan x="10" y="4954">305.  2017-04-04 09:04:37 +0000     1642 byte  lib/commands/doubleClick.js</tspan>
-<tspan x="10" y="4970">306.  2017-04-04 09:04:37 +0000      983 byte  lib/commands/dragAndDrop.js</tspan>
-<tspan x="10" y="4986">307.  2017-04-04 09:04:37 +0000      775 byte  lib/commands/end.js</tspan>
-<tspan x="10" y="5002">308.  2017-04-04 09:04:37 +0000      552 byte  lib/commands/endAll.js</tspan>
-<tspan x="10" y="5018">309.  2017-04-04 09:04:37 +0000     2317 byte  lib/commands/getAttribute.js</tspan>
-<tspan x="10" y="5034">310.  2017-04-04 09:04:37 +0000     2664 byte  lib/commands/getCommandHistory.js</tspan>
-<tspan x="10" y="5050">311.  2017-04-04 09:04:37 +0000     1403 byte  lib/commands/getCookie.js</tspan>
-<tspan x="10" y="5066">312.  2017-04-04 09:04:37 +0000     3533 byte  lib/commands/getCssProperty.js</tspan>
-<tspan x="10" y="5082">313.  2017-04-04 09:04:37 +0000      704 byte  lib/commands/getCurrentTabId.js</tspan>
-<tspan x="10" y="5098">314.  2017-04-04 09:04:37 +0000     2253 byte  lib/commands/getElementSize.js</tspan>
-<tspan x="10" y="5114">315.  2017-04-04 09:04:37 +0000      726 byte  lib/commands/getGeoLocation.js</tspan>
-<tspan x="10" y="5130">316.  2017-04-04 09:04:37 +0000     1363 byte  lib/commands/getGridNodeDetails.js</tspan>
-<tspan x="10" y="5146">317.  2017-04-04 09:04:37 +0000     1695 byte  lib/commands/getHTML.js</tspan>
-<tspan x="10" y="5162">318.  2017-04-04 09:04:37 +0000     2743 byte  lib/commands/getLocation.js</tspan>
-<tspan x="10" y="5178">319.  2017-04-04 09:04:37 +0000     2194 byte  lib/commands/getLocationInView.js</tspan>
-<tspan x="10" y="5194">320.  2017-04-04 09:04:37 +0000      927 byte  lib/commands/getOrientation.js</tspan>
-<tspan x="10" y="5210">321.  2017-04-04 09:04:37 +0000      767 byte  lib/commands/getSource.js</tspan>
-<tspan x="10" y="5226">322.  2017-04-04 09:04:37 +0000      908 byte  lib/commands/getTabIds.js</tspan>
-<tspan x="10" y="5242">323.  2017-04-04 09:04:37 +0000     1291 byte  lib/commands/getTagName.js</tspan>
-<tspan x="10" y="5258">324.  2017-04-04 09:04:37 +0000     2290 byte  lib/commands/getText.js</tspan>
-<tspan x="10" y="5274">325.  2017-04-04 09:04:37 +0000      742 byte  lib/commands/getTitle.js</tspan>
-<tspan x="10" y="5290">326.  2017-04-04 09:04:37 +0000      575 byte  lib/commands/getUrl.js</tspan>
-<tspan x="10" y="5306">327.  2017-04-04 09:04:37 +0000     1313 byte  lib/commands/getValue.js</tspan>
-<tspan x="10" y="5322">328.  2017-04-04 09:04:37 +0000     1394 byte  lib/commands/getViewportSize.js</tspan>
-<tspan x="10" y="5338">329.  2017-04-04 09:04:37 +0000     1111 byte  lib/commands/hasFocus.js</tspan>
-<tspan x="10" y="5354">330.  2017-04-04 09:04:37 +0000      640 byte  lib/commands/hold.js</tspan>
-<tspan x="10" y="5370">331.  2017-04-04 09:04:37 +0000     1658 byte  lib/commands/isEnabled.js</tspan>
-<tspan x="10" y="5386">332.  2017-04-04 09:04:37 +0000     1504 byte  lib/commands/isExisting.js</tspan>
-<tspan x="10" y="5402">333.  2017-04-04 09:04:37 +0000     1723 byte  lib/commands/isSelected.js</tspan>
-<tspan x="10" y="5418">334.  2017-04-04 09:04:37 +0000     1902 byte  lib/commands/isVisible.js</tspan>
-<tspan x="10" y="5434">335.  2017-04-04 09:04:37 +0000     2098 byte  lib/commands/isVisibleWithinViewport.js</tspan>
-<tspan x="10" y="5450">336.  2017-04-04 09:04:37 +0000      699 byte  lib/commands/leftClick.js</tspan>
-<tspan x="10" y="5466">337.  2017-04-04 09:04:37 +0000      709 byte  lib/commands/middleClick.js</tspan>
-<tspan x="10" y="5482">338.  2017-04-04 09:04:37 +0000     2201 byte  lib/commands/moveToObject.js</tspan>
-<tspan x="10" y="5498">339.  2017-04-04 09:04:37 +0000     1866 byte  lib/commands/newWindow.js</tspan>
-<tspan x="10" y="5514">340.  2017-04-04 09:04:37 +0000      805 byte  lib/commands/pause.js</tspan>
-<tspan x="10" y="5530">341.  2017-04-04 09:04:37 +0000      356 byte  lib/commands/release.js</tspan>
-<tspan x="10" y="5546">342.  2017-04-04 09:04:37 +0000     1322 byte  lib/commands/reload.js</tspan>
-<tspan x="10" y="5562">343.  2017-04-04 09:04:37 +0000      704 byte  lib/commands/rightClick.js</tspan>
-<tspan x="10" y="5578">344.  2017-04-04 09:04:37 +0000     1556 byte  lib/commands/saveScreenshot.js</tspan>
-<tspan x="10" y="5594">345.  2017-04-04 09:04:37 +0000     2576 byte  lib/commands/scroll.js</tspan>
-<tspan x="10" y="5610">346.  2017-04-04 09:04:37 +0000     2401 byte  lib/commands/selectByAttribute.js</tspan>
-<tspan x="10" y="5626">347.  2017-04-04 09:04:37 +0000     2069 byte  lib/commands/selectByIndex.js</tspan>
-<tspan x="10" y="5642">348.  2017-04-04 09:04:37 +0000     1174 byte  lib/commands/selectByValue.js</tspan>
-<tspan x="10" y="5658">349.  2017-04-04 09:04:37 +0000     2200 byte  lib/commands/selectByVisibleText.js</tspan>
-<tspan x="10" y="5674">350.  2017-04-04 09:04:37 +0000     3482 byte  lib/commands/selectorExecute.js</tspan>
-<tspan x="10" y="5690">351.  2017-04-04 09:04:37 +0000     3665 byte  lib/commands/selectorExecuteAsync.js</tspan>
-<tspan x="10" y="5706">352.  2017-04-04 09:04:37 +0000     1126 byte  lib/commands/setCookie.js</tspan>
-<tspan x="10" y="5722">353.  2017-04-04 09:04:37 +0000      721 byte  lib/commands/setGeoLocation.js</tspan>
-<tspan x="10" y="5738">354.  2017-04-04 09:04:37 +0000      891 byte  lib/commands/setOrientation.js</tspan>
-<tspan x="10" y="5754">355.  2017-04-04 09:04:37 +0000     1913 byte  lib/commands/setValue.js</tspan>
-<tspan x="10" y="5770">356.  2017-04-04 09:04:37 +0000     3192 byte  lib/commands/setViewportSize.js</tspan>
-<tspan x="10" y="5786">357.  2017-04-04 09:04:37 +0000     1267 byte  lib/commands/submitForm.js</tspan>
-<tspan x="10" y="5802">358.  2017-04-04 09:04:37 +0000     1465 byte  lib/commands/swipe.js</tspan>
-<tspan x="10" y="5818">359.  2017-04-04 09:04:37 +0000      787 byte  lib/commands/swipeDown.js</tspan>
-<tspan x="10" y="5834">360.  2017-04-04 09:04:37 +0000      807 byte  lib/commands/swipeLeft.js</tspan>
-<tspan x="10" y="5850">361.  2017-04-04 09:04:37 +0000      811 byte  lib/commands/swipeRight.js</tspan>
-<tspan x="10" y="5866">362.  2017-04-04 09:04:37 +0000      799 byte  lib/commands/swipeUp.js</tspan>
-<tspan x="10" y="5882">363.  2017-04-04 09:04:37 +0000      756 byte  lib/commands/switchTab.js</tspan>
-<tspan x="10" y="5898">364.  2017-04-04 09:04:37 +0000      792 byte  lib/commands/touch.js</tspan>
-<tspan x="10" y="5914">365.  2017-04-04 09:04:37 +0000    10089 byte  lib/commands/touchAction.js</tspan>
-<tspan x="10" y="5930">366.  2017-04-04 09:04:37 +0000     1304 byte  lib/commands/uploadFile.js</tspan>
-<tspan x="10" y="5946">367.  2017-04-04 09:04:37 +0000     2553 byte  lib/commands/waitForEnabled.js</tspan>
-<tspan x="10" y="5962">368.  2017-04-04 09:04:37 +0000     2592 byte  lib/commands/waitForExist.js</tspan>
-<tspan x="10" y="5978">369.  2017-04-04 09:04:37 +0000     2717 byte  lib/commands/waitForSelected.js</tspan>
-<tspan x="10" y="5994">370.  2017-04-04 09:04:37 +0000     2482 byte  lib/commands/waitForText.js</tspan>
-<tspan x="10" y="6010">371.  2017-04-04 09:04:37 +0000     2510 byte  lib/commands/waitForValue.js</tspan>
-<tspan x="10" y="6026">372.  2017-04-04 09:04:37 +0000     2531 byte  lib/commands/waitForVisible.js</tspan>
-<tspan x="10" y="6042">373.  2017-04-04 09:04:37 +0000     2237 byte  lib/commands/waitUntil.js</tspan>
-<tspan x="10" y="6058">374.  2017-04-04 09:04:37 +0000      789 byte  lib/protocol/alertAccept.js</tspan>
-<tspan x="10" y="6074">375.  2017-04-04 09:04:37 +0000      884 byte  lib/protocol/alertDismiss.js</tspan>
-<tspan x="10" y="6090">376.  2017-04-04 09:04:37 +0000     1172 byte  lib/protocol/alertText.js</tspan>
-<tspan x="10" y="6106">377.  2017-04-04 09:04:37 +0000      517 byte  lib/protocol/applicationCacheStatus.js</tspan>
-<tspan x="10" y="6122">378.  2017-04-04 09:04:37 +0000      691 byte  lib/protocol/back.js</tspan>
-<tspan x="10" y="6138">379.  2017-04-04 09:04:37 +0000      600 byte  lib/protocol/background.js</tspan>
-<tspan x="10" y="6154">380.  2017-04-04 09:04:37 +0000      814 byte  lib/protocol/buttonDown.js</tspan>
-<tspan x="10" y="6170">381.  2017-04-04 09:04:37 +0000      680 byte  lib/protocol/buttonPress.js</tspan>
-<tspan x="10" y="6186">382.  2017-04-04 09:04:37 +0000      754 byte  lib/protocol/buttonUp.js</tspan>
-<tspan x="10" y="6202">383.  2017-04-04 09:04:37 +0000      442 byte  lib/protocol/closeApp.js</tspan>
-<tspan x="10" y="6218">384.  2017-04-04 09:04:37 +0000      656 byte  lib/protocol/context.js</tspan>
-<tspan x="10" y="6234">385.  2017-04-04 09:04:37 +0000      415 byte  lib/protocol/contexts.js</tspan>
-<tspan x="10" y="6250">386.  2017-04-04 09:04:37 +0000     1496 byte  lib/protocol/cookie.js</tspan>
-<tspan x="10" y="6266">387.  2017-04-04 09:04:37 +0000      614 byte  lib/protocol/currentActivity.js</tspan>
-<tspan x="10" y="6282">388.  2017-04-04 09:04:37 +0000      607 byte  lib/protocol/deviceKeyEvent.js</tspan>
-<tspan x="10" y="6298">389.  2017-04-04 09:04:37 +0000      437 byte  lib/protocol/doDoubleClick.js</tspan>
-<tspan x="10" y="6314">390.  2017-04-04 09:04:37 +0000     2092 byte  lib/protocol/element.js</tspan>
-<tspan x="10" y="6330">391.  2017-04-04 09:04:37 +0000      496 byte  lib/protocol/elementActive.js</tspan>
-<tspan x="10" y="6346">392.  2017-04-04 09:04:37 +0000      910 byte  lib/protocol/elementIdAttribute.js</tspan>
-<tspan x="10" y="6362">393.  2017-04-04 09:04:37 +0000      681 byte  lib/protocol/elementIdClear.js</tspan>
-<tspan x="10" y="6378">394.  2017-04-04 09:04:37 +0000      651 byte  lib/protocol/elementIdClick.js</tspan>
-<tspan x="10" y="6394">395.  2017-04-04 09:04:37 +0000     1035 byte  lib/protocol/elementIdCssProperty.js</tspan>
-<tspan x="10" y="6410">396.  2017-04-04 09:04:37 +0000      748 byte  lib/protocol/elementIdDisplayed.js</tspan>
-<tspan x="10" y="6426">397.  2017-04-04 09:04:37 +0000     1722 byte  lib/protocol/elementIdElement.js</tspan>
-<tspan x="10" y="6442">398.  2017-04-04 09:04:37 +0000     1224 byte  lib/protocol/elementIdElements.js</tspan>
-<tspan x="10" y="6458">399.  2017-04-04 09:04:37 +0000      696 byte  lib/protocol/elementIdEnabled.js</tspan>
-<tspan x="10" y="6474">400.  2017-04-04 09:04:37 +0000      983 byte  lib/protocol/elementIdLocation.js</tspan>
-<tspan x="10" y="6490">401.  2017-04-04 09:04:37 +0000     1049 byte  lib/protocol/elementIdLocationInView.js</tspan>
-<tspan x="10" y="6506">402.  2017-04-04 09:04:37 +0000      688 byte  lib/protocol/elementIdName.js</tspan>
-<tspan x="10" y="6522">403.  2017-04-04 09:04:37 +0000      711 byte  lib/protocol/elementIdRect.js</tspan>
-<tspan x="10" y="6538">404.  2017-04-04 09:04:37 +0000      767 byte  lib/protocol/elementIdSelected.js</tspan>
-<tspan x="10" y="6554">405.  2017-04-04 09:04:37 +0000      892 byte  lib/protocol/elementIdSize.js</tspan>
-<tspan x="10" y="6570">406.  2017-04-04 09:04:37 +0000      669 byte  lib/protocol/elementIdText.js</tspan>
-<tspan x="10" y="6586">407.  2017-04-04 09:04:37 +0000     1751 byte  lib/protocol/elementIdValue.js</tspan>
-<tspan x="10" y="6602">408.  2017-04-04 09:04:37 +0000     3184 byte  lib/protocol/elements.js</tspan>
-<tspan x="10" y="6618">409.  2017-04-04 09:04:37 +0000     2459 byte  lib/protocol/execute.js</tspan>
-<tspan x="10" y="6634">410.  2017-04-04 09:04:37 +0000     2961 byte  lib/protocol/executeAsync.js</tspan>
-<tspan x="10" y="6650">411.  2017-04-04 09:04:37 +0000      319 byte  lib/protocol/file.js</tspan>
-<tspan x="10" y="6666">412.  2017-04-04 09:04:37 +0000      706 byte  lib/protocol/forward.js</tspan>
-<tspan x="10" y="6682">413.  2017-04-04 09:04:37 +0000      842 byte  lib/protocol/frame.js</tspan>
-<tspan x="10" y="6698">414.  2017-04-04 09:04:37 +0000      430 byte  lib/protocol/frameParent.js</tspan>
-<tspan x="10" y="6714">415.  2017-04-04 09:04:37 +0000      498 byte  lib/protocol/getAppStrings.js</tspan>
-<tspan x="10" y="6730">416.  2017-04-04 09:04:37 +0000      701 byte  lib/protocol/getCurrentDeviceActivity.js</tspan>
-<tspan x="10" y="6746">417.  2017-04-04 09:04:37 +0000      371 byte  lib/protocol/getDeviceTime.js</tspan>
-<tspan x="10" y="6762">418.  2017-04-04 09:04:37 +0000     1420 byte  lib/protocol/getNetworkConnection.js</tspan>
-<tspan x="10" y="6778">419.  2017-04-04 09:04:37 +0000     1176 byte  lib/protocol/gridProxyDetails.js</tspan>
-<tspan x="10" y="6794">420.  2017-04-04 09:04:37 +0000     1190 byte  lib/protocol/gridTestSession.js</tspan>
-<tspan x="10" y="6810">421.  2017-04-04 09:04:37 +0000      985 byte  lib/protocol/hideDeviceKeyboard.js</tspan>
-<tspan x="10" y="6826">422.  2017-04-04 09:04:37 +0000     1037 byte  lib/protocol/imeActivate.js</tspan>
-<tspan x="10" y="6842">423.  2017-04-04 09:04:37 +0000      516 byte  lib/protocol/imeActivated.js</tspan>
-<tspan x="10" y="6858">424.  2017-04-04 09:04:37 +0000      490 byte  lib/protocol/imeActiveEngine.js</tspan>
-<tspan x="10" y="6874">425.  2017-04-04 09:04:37 +0000      521 byte  lib/protocol/imeAvailableEngines.js</tspan>
-<tspan x="10" y="6890">426.  2017-04-04 09:04:37 +0000      381 byte  lib/protocol/imeDeactivated.js</tspan>
-<tspan x="10" y="6906">427.  2017-04-04 09:04:37 +0000     2114 byte  lib/protocol/init.js</tspan>
-<tspan x="10" y="6922">428.  2017-04-04 09:04:37 +0000      831 byte  lib/protocol/installApp.js</tspan>
-<tspan x="10" y="6938">429.  2017-04-04 09:04:37 +0000      945 byte  lib/protocol/isAppInstalled.js</tspan>
-<tspan x="10" y="6954">430.  2017-04-04 09:04:37 +0000      562 byte  lib/protocol/isLocked.js</tspan>
-<tspan x="10" y="6970">431.  2017-04-04 09:04:37 +0000     1976 byte  lib/protocol/keys.js</tspan>
-<tspan x="10" y="6986">432.  2017-04-04 09:04:37 +0000      823 byte  lib/protocol/launch.js</tspan>
-<tspan x="10" y="7002">433.  2017-04-04 09:04:37 +0000     1795 byte  lib/protocol/localStorage.js</tspan>
-<tspan x="10" y="7018">434.  2017-04-04 09:04:37 +0000      451 byte  lib/protocol/localStorageSize.js</tspan>
-<tspan x="10" y="7034">435.  2017-04-04 09:04:37 +0000     1208 byte  lib/protocol/location.js</tspan>
-<tspan x="10" y="7050">436.  2017-04-04 09:04:37 +0000      709 byte  lib/protocol/lock.js</tspan>
-<tspan x="10" y="7066">437.  2017-04-04 09:04:37 +0000     1302 byte  lib/protocol/log.js</tspan>
-<tspan x="10" y="7082">438.  2017-04-04 09:04:37 +0000      814 byte  lib/protocol/logTypes.js</tspan>
-<tspan x="10" y="7098">439.  2017-04-04 09:04:37 +0000      653 byte  lib/protocol/longPressKeycode.js</tspan>
-<tspan x="10" y="7114">440.  2017-04-04 09:04:37 +0000     2287 byte  lib/protocol/moveTo.js</tspan>
-<tspan x="10" y="7130">441.  2017-04-04 09:04:37 +0000      403 byte  lib/protocol/openNotifications.js</tspan>
-<tspan x="10" y="7146">442.  2017-04-04 09:04:37 +0000     1373 byte  lib/protocol/orientation.js</tspan>
-<tspan x="10" y="7162">443.  2017-04-04 09:04:37 +0000      537 byte  lib/protocol/performMultiAction.js</tspan>
-<tspan x="10" y="7178">444.  2017-04-04 09:04:37 +0000      740 byte  lib/protocol/performTouchAction.js</tspan>
-<tspan x="10" y="7194">445.  2017-04-04 09:04:37 +0000      627 byte  lib/protocol/pressKeycode.js</tspan>
-<tspan x="10" y="7210">446.  2017-04-04 09:04:37 +0000      719 byte  lib/protocol/pullFile.js</tspan>
-<tspan x="10" y="7226">447.  2017-04-04 09:04:37 +0000      651 byte  lib/protocol/pullFolder.js</tspan>
-<tspan x="10" y="7242">448.  2017-04-04 09:04:37 +0000      898 byte  lib/protocol/pushFile.js</tspan>
-<tspan x="10" y="7258">449.  2017-04-04 09:04:37 +0000      307 byte  lib/protocol/refresh.js</tspan>
-<tspan x="10" y="7274">450.  2017-04-04 09:04:37 +0000      767 byte  lib/protocol/removeApp.js</tspan>
-<tspan x="10" y="7290">451.  2017-04-04 09:04:37 +0000      492 byte  lib/protocol/reset.js</tspan>
-<tspan x="10" y="7306">452.  2017-04-04 09:04:37 +0000     1352 byte  lib/protocol/rotate.js</tspan>
-<tspan x="10" y="7322">453.  2017-04-04 09:04:37 +0000      455 byte  lib/protocol/screenshot.js</tspan>
-<tspan x="10" y="7338">454.  2017-04-04 09:04:37 +0000     3022 byte  lib/protocol/session.js</tspan>
-<tspan x="10" y="7354">455.  2017-04-04 09:04:37 +0000     1827 byte  lib/protocol/sessionStorage.js</tspan>
-<tspan x="10" y="7370">456.  2017-04-04 09:04:37 +0000      466 byte  lib/protocol/sessionStorageSize.js</tspan>
-<tspan x="10" y="7386">457.  2017-04-04 09:04:37 +0000      861 byte  lib/protocol/sessions.js</tspan>
-<tspan x="10" y="7402">458.  2017-04-04 09:04:37 +0000      889 byte  lib/protocol/setImmediateValue.js</tspan>
-<tspan x="10" y="7418">459.  2017-04-04 09:04:37 +0000     2003 byte  lib/protocol/setNetworkConnection.js</tspan>
-<tspan x="10" y="7434">460.  2017-04-04 09:04:37 +0000     1030 byte  lib/protocol/settings.js</tspan>
-<tspan x="10" y="7450">461.  2017-04-04 09:04:37 +0000      440 byte  lib/protocol/shake.js</tspan>
-<tspan x="10" y="7466">462.  2017-04-04 09:04:37 +0000      318 byte  lib/protocol/source.js</tspan>
-<tspan x="10" y="7482">463.  2017-04-04 09:04:37 +0000      871 byte  lib/protocol/startActivity.js</tspan>
-<tspan x="10" y="7498">464.  2017-04-04 09:04:37 +0000     1570 byte  lib/protocol/status.js</tspan>
-<tspan x="10" y="7514">465.  2017-04-04 09:04:37 +0000      917 byte  lib/protocol/strings.js</tspan>
-<tspan x="10" y="7530">466.  2017-04-04 09:04:37 +0000      813 byte  lib/protocol/submit.js</tspan>
-<tspan x="10" y="7546">467.  2017-04-04 09:04:37 +0000     1064 byte  lib/protocol/timeouts.js</tspan>
-<tspan x="10" y="7562">468.  2017-04-04 09:04:37 +0000      988 byte  lib/protocol/timeoutsAsyncScript.js</tspan>
-<tspan x="10" y="7578">469.  2017-04-04 09:04:37 +0000     1254 byte  lib/protocol/timeoutsImplicitWait.js</tspan>
-<tspan x="10" y="7594">470.  2017-04-04 09:04:37 +0000      927 byte  lib/protocol/title.js</tspan>
-<tspan x="10" y="7610">471.  2017-04-04 09:04:37 +0000      415 byte  lib/protocol/toggleAirplaneMode.js</tspan>
-<tspan x="10" y="7626">472.  2017-04-04 09:04:37 +0000      373 byte  lib/protocol/toggleData.js</tspan>
-<tspan x="10" y="7642">473.  2017-04-04 09:04:37 +0000      443 byte  lib/protocol/toggleLocationServices.js</tspan>
-<tspan x="10" y="7658">474.  2017-04-04 09:04:37 +0000      376 byte  lib/protocol/toggleWiFi.js</tspan>
-<tspan x="10" y="7674">475.  2017-04-04 09:04:37 +0000      751 byte  lib/protocol/touchClick.js</tspan>
-<tspan x="10" y="7690">476.  2017-04-04 09:04:37 +0000      700 byte  lib/protocol/touchDown.js</tspan>
-<tspan x="10" y="7706">477.  2017-04-04 09:04:37 +0000     1365 byte  lib/protocol/touchFlick.js</tspan>
-<tspan x="10" y="7722">478.  2017-04-04 09:04:37 +0000      724 byte  lib/protocol/touchId.js</tspan>
-<tspan x="10" y="7738">479.  2017-04-04 09:04:37 +0000      744 byte  lib/protocol/touchLongClick.js</tspan>
-<tspan x="10" y="7754">480.  2017-04-04 09:04:37 +0000      736 byte  lib/protocol/touchMove.js</tspan>
-<tspan x="10" y="7770">481.  2017-04-04 09:04:37 +0000     1023 byte  lib/protocol/touchMultiPerform.js</tspan>
-<tspan x="10" y="7786">482.  2017-04-04 09:04:37 +0000     1212 byte  lib/protocol/touchPerform.js</tspan>
-<tspan x="10" y="7802">483.  2017-04-04 09:04:37 +0000     1573 byte  lib/protocol/touchScroll.js</tspan>
-<tspan x="10" y="7818">484.  2017-04-04 09:04:37 +0000      673 byte  lib/protocol/touchUp.js</tspan>
-<tspan x="10" y="7834">485.  2017-04-04 09:04:37 +0000      521 byte  lib/protocol/unlock.js</tspan>
-<tspan x="10" y="7850">486.  2017-04-04 09:04:37 +0000      809 byte  lib/protocol/url.js</tspan>
-<tspan x="10" y="7866">487.  2017-04-04 09:04:37 +0000      981 byte  lib/protocol/window.js</tspan>
-<tspan x="10" y="7882">488.  2017-04-04 09:04:37 +0000     1001 byte  lib/protocol/windowHandle.js</tspan>
-<tspan x="10" y="7898">489.  2017-04-04 09:04:37 +0000      764 byte  lib/protocol/windowHandleFullscreen.js</tspan>
-<tspan x="10" y="7914">490.  2017-04-04 09:04:37 +0000      643 byte  lib/protocol/windowHandleMaximize.js</tspan>
-<tspan x="10" y="7930">491.  2017-04-04 09:04:37 +0000     2160 byte  lib/protocol/windowHandlePosition.js</tspan>
-<tspan x="10" y="7946">492.  2017-04-04 09:04:37 +0000     2238 byte  lib/protocol/windowHandleSize.js</tspan>
-<tspan x="10" y="7962">493.  2017-04-04 09:04:37 +0000     1178 byte  lib/protocol/windowHandles.js</tspan>
-<tspan x="10" y="7978">494.  2017-04-04 09:04:37 +0000    25255 byte  package.json</tspan>
-<tspan x="10" y="7994">495.  2017-04-04 09:04:37 +0000     1421 byte  phantomjsdriver.log</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 04:44:06 +0000  1125658 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 04:44:06 +0000    15425 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 04:44:06 +0000     6964 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 04:44:06 +0000     1090 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 04:44:06 +0000     4723 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 04:44:06 +0000      109 bytes  bin/wdio</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 04:44:06 +0000     4342 bytes  build/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 04:44:06 +0000    17319 bytes  build/lib/cli.js</tspan>
+<tspan x="10" y="154">ls: cannot access build/lib/commands/4985.js: No such file or directory</tspan>
+<tspan x="10" y="170">  8.  2017-04-18 04:44:06 +0000    17319 bytes  build/lib/commands/$$.js</tspan>
+<tspan x="10" y="186">  9.  2017-04-18 04:44:06 +0000     1258 bytes  build/lib/commands/$.js</tspan>
+<tspan x="10" y="202"> 10.  2017-04-18 04:44:06 +0000     1674 bytes  build/lib/commands/addCommand.js</tspan>
+<tspan x="10" y="218"> 11.  2017-04-18 04:44:06 +0000     3201 bytes  build/lib/commands/addValue.js</tspan>
+<tspan x="10" y="234"> 12.  2017-04-18 04:44:06 +0000     1322 bytes  build/lib/commands/call.js</tspan>
+<tspan x="10" y="250"> 13.  2017-04-18 04:44:06 +0000     2266 bytes  build/lib/commands/chooseFile.js</tspan>
+<tspan x="10" y="266"> 14.  2017-04-18 04:44:06 +0000     2634 bytes  build/lib/commands/clearElement.js</tspan>
+<tspan x="10" y="282"> 15.  2017-04-18 04:44:06 +0000     1672 bytes  build/lib/commands/click.js</tspan>
+<tspan x="10" y="298"> 16.  2017-04-18 04:44:06 +0000     1531 bytes  build/lib/commands/close.js</tspan>
+<tspan x="10" y="314"> 17.  2017-04-18 04:44:06 +0000     4385 bytes  build/lib/commands/debug.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-18 04:44:06 +0000     1493 bytes  build/lib/commands/deleteCookie.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-18 04:44:06 +0000     1927 bytes  build/lib/commands/doubleClick.js</tspan>
+<tspan x="10" y="362"> 20.  2017-04-18 04:44:06 +0000     1177 bytes  build/lib/commands/dragAndDrop.js</tspan>
+<tspan x="10" y="378"> 21.  2017-04-18 04:44:06 +0000      903 bytes  build/lib/commands/end.js</tspan>
+<tspan x="10" y="394"> 22.  2017-04-18 04:44:06 +0000     1684 bytes  build/lib/commands/endAll.js</tspan>
+<tspan x="10" y="410"> 23.  2017-04-18 04:44:06 +0000     3591 bytes  build/lib/commands/getAttribute.js</tspan>
+<tspan x="10" y="426"> 24.  2017-04-18 04:44:06 +0000     2806 bytes  build/lib/commands/getCommandHistory.js</tspan>
+<tspan x="10" y="442"> 25.  2017-04-18 04:44:06 +0000     1593 bytes  build/lib/commands/getCookie.js</tspan>
+<tspan x="10" y="458"> 26.  2017-04-18 04:44:06 +0000     4905 bytes  build/lib/commands/getCssProperty.js</tspan>
+<tspan x="10" y="474"> 27.  2017-04-18 04:44:06 +0000      844 bytes  build/lib/commands/getCurrentTabId.js</tspan>
+<tspan x="10" y="490"> 28.  2017-04-18 04:44:06 +0000     3612 bytes  build/lib/commands/getElementSize.js</tspan>
+<tspan x="10" y="506"> 29.  2017-04-18 04:44:06 +0000      865 bytes  build/lib/commands/getGeoLocation.js</tspan>
+<tspan x="10" y="522"> 30.  2017-04-18 04:44:06 +0000     1781 bytes  build/lib/commands/getGridNodeDetails.js</tspan>
+<tspan x="10" y="538"> 31.  2017-04-18 04:44:06 +0000     2028 bytes  build/lib/commands/getHTML.js</tspan>
+<tspan x="10" y="554"> 32.  2017-04-18 04:44:06 +0000     3112 bytes  build/lib/commands/getLocation.js</tspan>
+<tspan x="10" y="570"> 33.  2017-04-18 04:44:06 +0000     3569 bytes  build/lib/commands/getLocationInView.js</tspan>
+<tspan x="10" y="586"> 34.  2017-04-18 04:44:06 +0000     1139 bytes  build/lib/commands/getOrientation.js</tspan>
+<tspan x="10" y="602"> 35.  2017-04-18 04:44:06 +0000      901 bytes  build/lib/commands/getSource.js</tspan>
+<tspan x="10" y="618"> 36.  2017-04-18 04:44:06 +0000     1042 bytes  build/lib/commands/getTabIds.js</tspan>
+<tspan x="10" y="634"> 37.  2017-04-18 04:44:06 +0000     2512 bytes  build/lib/commands/getTagName.js</tspan>
+<tspan x="10" y="650"> 38.  2017-04-18 04:44:06 +0000     3565 bytes  build/lib/commands/getText.js</tspan>
+<tspan x="10" y="666"> 39.  2017-04-18 04:44:06 +0000      875 bytes  build/lib/commands/getTitle.js</tspan>
+<tspan x="10" y="682"> 40.  2017-04-18 04:44:06 +0000      706 bytes  build/lib/commands/getUrl.js</tspan>
+<tspan x="10" y="698"> 41.  2017-04-18 04:44:06 +0000     2532 bytes  build/lib/commands/getValue.js</tspan>
+<tspan x="10" y="714"> 42.  2017-04-18 04:44:06 +0000     1791 bytes  build/lib/commands/getViewportSize.js</tspan>
+<tspan x="10" y="730"> 43.  2017-04-18 04:44:06 +0000     1281 bytes  build/lib/commands/hasFocus.js</tspan>
+<tspan x="10" y="746"> 44.  2017-04-18 04:44:06 +0000      846 bytes  build/lib/commands/hold.js</tspan>
+<tspan x="10" y="762"> 45.  2017-04-18 04:44:06 +0000     2896 bytes  build/lib/commands/isEnabled.js</tspan>
+<tspan x="10" y="778"> 46.  2017-04-18 04:44:06 +0000     1647 bytes  build/lib/commands/isExisting.js</tspan>
+<tspan x="10" y="794"> 47.  2017-04-18 04:44:06 +0000     2962 bytes  build/lib/commands/isSelected.js</tspan>
+<tspan x="10" y="810"> 48.  2017-04-18 04:44:06 +0000     3038 bytes  build/lib/commands/isVisible.js</tspan>
+<tspan x="10" y="826"> 49.  2017-04-18 04:44:06 +0000     2399 bytes  build/lib/commands/isVisibleWithinViewport.js</tspan>
+<tspan x="10" y="842"> 50.  2017-04-18 04:44:06 +0000     1062 bytes  build/lib/commands/leftClick.js</tspan>
+<tspan x="10" y="858"> 51.  2017-04-18 04:44:06 +0000     1074 bytes  build/lib/commands/middleClick.js</tspan>
+<tspan x="10" y="874"> 52.  2017-04-18 04:44:06 +0000     2499 bytes  build/lib/commands/moveToObject.js</tspan>
+<tspan x="10" y="890"> 53.  2017-04-18 04:44:06 +0000     2386 bytes  build/lib/commands/newWindow.js</tspan>
+<tspan x="10" y="906"> 54.  2017-04-18 04:44:06 +0000     1261 bytes  build/lib/commands/pause.js</tspan>
+<tspan x="10" y="922"> 55.  2017-04-18 04:44:06 +0000      521 bytes  build/lib/commands/release.js</tspan>
+<tspan x="10" y="938"> 56.  2017-04-18 04:44:06 +0000     1742 bytes  build/lib/commands/reload.js</tspan>
+<tspan x="10" y="954"> 57.  2017-04-18 04:44:06 +0000     1068 bytes  build/lib/commands/rightClick.js</tspan>
+<tspan x="10" y="970"> 58.  2017-04-18 04:44:06 +0000     1975 bytes  build/lib/commands/saveScreenshot.js</tspan>
+<tspan x="10" y="986"> 59.  2017-04-18 04:44:06 +0000     3079 bytes  build/lib/commands/scroll.js</tspan>
+<tspan x="10" y="1002"> 60.  2017-04-18 04:44:06 +0000     2741 bytes  build/lib/commands/selectByAttribute.js</tspan>
+<tspan x="10" y="1018"> 61.  2017-04-18 04:44:06 +0000     2407 bytes  build/lib/commands/selectByIndex.js</tspan>
+<tspan x="10" y="1034"> 62.  2017-04-18 04:44:06 +0000     1312 bytes  build/lib/commands/selectByValue.js</tspan>
+<tspan x="10" y="1050"> 63.  2017-04-18 04:44:06 +0000     2525 bytes  build/lib/commands/selectByVisibleText.js</tspan>
+<tspan x="10" y="1066"> 64.  2017-04-18 04:44:06 +0000     4459 bytes  build/lib/commands/selectorExecute.js</tspan>
+<tspan x="10" y="1082"> 65.  2017-04-18 04:44:06 +0000     4647 bytes  build/lib/commands/selectorExecuteAsync.js</tspan>
+<tspan x="10" y="1098"> 66.  2017-04-18 04:44:06 +0000     1613 bytes  build/lib/commands/setCookie.js</tspan>
+<tspan x="10" y="1114"> 67.  2017-04-18 04:44:06 +0000     1131 bytes  build/lib/commands/setGeoLocation.js</tspan>
+<tspan x="10" y="1130"> 68.  2017-04-18 04:44:06 +0000     1106 bytes  build/lib/commands/setOrientation.js</tspan>
+<tspan x="10" y="1146"> 69.  2017-04-18 04:44:06 +0000     3160 bytes  build/lib/commands/setValue.js</tspan>
+<tspan x="10" y="1162"> 70.  2017-04-18 04:44:06 +0000     3824 bytes  build/lib/commands/setViewportSize.js</tspan>
+<tspan x="10" y="1178"> 71.  2017-04-18 04:44:06 +0000     1533 bytes  build/lib/commands/submitForm.js</tspan>
+<tspan x="10" y="1194"> 72.  2017-04-18 04:44:06 +0000     1621 bytes  build/lib/commands/swipe.js</tspan>
+<tspan x="10" y="1210"> 73.  2017-04-18 04:44:06 +0000      900 bytes  build/lib/commands/swipeDown.js</tspan>
+<tspan x="10" y="1226"> 74.  2017-04-18 04:44:06 +0000      920 bytes  build/lib/commands/swipeLeft.js</tspan>
+<tspan x="10" y="1242"> 75.  2017-04-18 04:44:06 +0000      925 bytes  build/lib/commands/swipeRight.js</tspan>
+<tspan x="10" y="1258"> 76.  2017-04-18 04:44:06 +0000      910 bytes  build/lib/commands/swipeUp.js</tspan>
+<tspan x="10" y="1274"> 77.  2017-04-18 04:44:06 +0000      923 bytes  build/lib/commands/switchTab.js</tspan>
+<tspan x="10" y="1290"> 78.  2017-04-18 04:44:06 +0000      944 bytes  build/lib/commands/touch.js</tspan>
+<tspan x="10" y="1306"> 79.  2017-04-18 04:44:06 +0000    10630 bytes  build/lib/commands/touchAction.js</tspan>
+<tspan x="10" y="1322"> 80.  2017-04-18 04:44:06 +0000     1921 bytes  build/lib/commands/uploadFile.js</tspan>
+<tspan x="10" y="1338"> 81.  2017-04-18 04:44:06 +0000     3928 bytes  build/lib/commands/waitForEnabled.js</tspan>
+<tspan x="10" y="1354"> 82.  2017-04-18 04:44:06 +0000     3947 bytes  build/lib/commands/waitForExist.js</tspan>
+<tspan x="10" y="1370"> 83.  2017-04-18 04:44:06 +0000     4102 bytes  build/lib/commands/waitForSelected.js</tspan>
+<tspan x="10" y="1386"> 84.  2017-04-18 04:44:06 +0000     3852 bytes  build/lib/commands/waitForText.js</tspan>
+<tspan x="10" y="1402"> 85.  2017-04-18 04:44:06 +0000     3881 bytes  build/lib/commands/waitForValue.js</tspan>
+<tspan x="10" y="1418"> 86.  2017-04-18 04:44:06 +0000     3906 bytes  build/lib/commands/waitForVisible.js</tspan>
+<tspan x="10" y="1434"> 87.  2017-04-18 04:44:06 +0000     4020 bytes  build/lib/commands/waitUntil.js</tspan>
+<tspan x="10" y="1450"> 88.  2017-04-18 04:44:06 +0000     6132 bytes  build/lib/helpers/constants.js</tspan>
+<tspan x="10" y="1466"> 89.  2017-04-18 04:44:06 +0000     1119 bytes  build/lib/helpers/detectSeleniumBackend.js</tspan>
+<tspan x="10" y="1482"> 90.  2017-04-18 04:44:06 +0000     1038 bytes  build/lib/helpers/ensureClientSideSelectorSuppor\</tspan>
+<tspan x="10" y="1498">t.js</tspan>
+<tspan x="10" y="1514"> 91.  2017-04-18 04:44:06 +0000     3733 bytes  build/lib/helpers/errorHandler.js</tspan>
+<tspan x="10" y="1530"> 92.  2017-04-18 04:44:06 +0000     5952 bytes  build/lib/helpers/findElementStrategy.js</tspan>
+<tspan x="10" y="1546"> 93.  2017-04-18 04:44:06 +0000     2916 bytes  build/lib/helpers/getImplementedCommands.js</tspan>
+<tspan x="10" y="1562"> 94.  2017-04-18 04:44:06 +0000     1439 bytes  build/lib/helpers/handleMouseButtonCommand.js</tspan>
+<tspan x="10" y="1578"> 95.  2017-04-18 04:44:06 +0000      545 bytes  build/lib/helpers/handleMouseButtonProtocol.js</tspan>
+<tspan x="10" y="1594"> 96.  2017-04-18 04:44:06 +0000      894 bytes  build/lib/helpers/hasElementResultHelper.js</tspan>
+<tspan x="10" y="1610"> 97.  2017-04-18 04:44:06 +0000     1278 bytes  build/lib/helpers/mobileDetector.js</tspan>
+<tspan x="10" y="1626"> 98.  2017-04-18 04:44:06 +0000     3484 bytes  build/lib/helpers/parseCSS.js</tspan>
+<tspan x="10" y="1642"> 99.  2017-04-18 04:44:06 +0000     1007 bytes  build/lib/helpers/safeExecute.js</tspan>
+<tspan x="10" y="1658">100.  2017-04-18 04:44:06 +0000     4065 bytes  build/lib/helpers/sanitize.js</tspan>
+<tspan x="10" y="1674">101.  2017-04-18 04:44:06 +0000    12176 bytes  build/lib/helpers/wdio.conf.ejs</tspan>
+<tspan x="10" y="1690">102.  2017-04-18 04:44:06 +0000    28652 bytes  build/lib/launcher.js</tspan>
+<tspan x="10" y="1706">103.  2017-04-18 04:44:06 +0000     8229 bytes  build/lib/multibrowser.js</tspan>
+<tspan x="10" y="1722">104.  2017-04-18 04:44:06 +0000      926 bytes  build/lib/protocol/alertAccept.js</tspan>
+<tspan x="10" y="1738">105.  2017-04-18 04:44:06 +0000     1022 bytes  build/lib/protocol/alertDismiss.js</tspan>
+<tspan x="10" y="1754">106.  2017-04-18 04:44:06 +0000     1310 bytes  build/lib/protocol/alertText.js</tspan>
+<tspan x="10" y="1770">107.  2017-04-18 04:44:06 +0000      660 bytes  build/lib/protocol/applicationCacheStatus.js</tspan>
+<tspan x="10" y="1786">108.  2017-04-18 04:44:06 +0000      821 bytes  build/lib/protocol/back.js</tspan>
+<tspan x="10" y="1802">109.  2017-04-18 04:44:06 +0000      823 bytes  build/lib/protocol/background.js</tspan>
+<tspan x="10" y="1818">110.  2017-04-18 04:44:06 +0000     1154 bytes  build/lib/protocol/buttonDown.js</tspan>
+<tspan x="10" y="1834">111.  2017-04-18 04:44:06 +0000     1012 bytes  build/lib/protocol/buttonPress.js</tspan>
+<tspan x="10" y="1850">112.  2017-04-18 04:44:06 +0000     1089 bytes  build/lib/protocol/buttonUp.js</tspan>
+<tspan x="10" y="1866">113.  2017-04-18 04:44:06 +0000      575 bytes  build/lib/protocol/closeApp.js</tspan>
+<tspan x="10" y="1882">114.  2017-04-18 04:44:06 +0000      792 bytes  build/lib/protocol/context.js</tspan>
+<tspan x="10" y="1898">115.  2017-04-18 04:44:06 +0000      544 bytes  build/lib/protocol/contexts.js</tspan>
+<tspan x="10" y="1914">116.  2017-04-18 04:44:06 +0000     2000 bytes  build/lib/protocol/cookie.js</tspan>
+<tspan x="10" y="1930">117.  2017-04-18 04:44:06 +0000      754 bytes  build/lib/protocol/currentActivity.js</tspan>
+<tspan x="10" y="1946">118.  2017-04-18 04:44:06 +0000      749 bytes  build/lib/protocol/deviceKeyEvent.js</tspan>
+<tspan x="10" y="1962">119.  2017-04-18 04:44:06 +0000      575 bytes  build/lib/protocol/doDoubleClick.js</tspan>
+<tspan x="10" y="1978">120.  2017-04-18 04:44:06 +0000     2681 bytes  build/lib/protocol/element.js</tspan>
+<tspan x="10" y="1994">121.  2017-04-18 04:44:06 +0000      634 bytes  build/lib/protocol/elementActive.js</tspan>
+<tspan x="10" y="2010">122.  2017-04-18 04:44:06 +0000     1107 bytes  build/lib/protocol/elementIdAttribute.js</tspan>
+<tspan x="10" y="2026">123.  2017-04-18 04:44:06 +0000      867 bytes  build/lib/protocol/elementIdClear.js</tspan>
+<tspan x="10" y="2042">124.  2017-04-18 04:44:06 +0000      837 bytes  build/lib/protocol/elementIdClick.js</tspan>
+<tspan x="10" y="2058">125.  2017-04-18 04:44:06 +0000     1240 bytes  build/lib/protocol/elementIdCssProperty.js</tspan>
+<tspan x="10" y="2074">126.  2017-04-18 04:44:06 +0000      922 bytes  build/lib/protocol/elementIdDisplayed.js</tspan>
+<tspan x="10" y="2090">127.  2017-04-18 04:44:06 +0000     2138 bytes  build/lib/protocol/elementIdElement.js</tspan>
+<tspan x="10" y="2106">128.  2017-04-18 04:44:06 +0000     1595 bytes  build/lib/protocol/elementIdElements.js</tspan>
+<tspan x="10" y="2122">129.  2017-04-18 04:44:06 +0000      887 bytes  build/lib/protocol/elementIdEnabled.js</tspan>
+<tspan x="10" y="2138">130.  2017-04-18 04:44:06 +0000     1190 bytes  build/lib/protocol/elementIdLocation.js</tspan>
+<tspan x="10" y="2154">131.  2017-04-18 04:44:06 +0000     1265 bytes  build/lib/protocol/elementIdLocationInView.js</tspan>
+<tspan x="10" y="2170">132.  2017-04-18 04:44:06 +0000      876 bytes  build/lib/protocol/elementIdName.js</tspan>
+<tspan x="10" y="2186">133.  2017-04-18 04:44:06 +0000      854 bytes  build/lib/protocol/elementIdRect.js</tspan>
+<tspan x="10" y="2202">134.  2017-04-18 04:44:06 +0000      962 bytes  build/lib/protocol/elementIdSelected.js</tspan>
+<tspan x="10" y="2218">135.  2017-04-18 04:44:06 +0000     1092 bytes  build/lib/protocol/elementIdSize.js</tspan>
+<tspan x="10" y="2234">136.  2017-04-18 04:44:06 +0000      857 bytes  build/lib/protocol/elementIdText.js</tspan>
+<tspan x="10" y="2250">137.  2017-04-18 04:44:06 +0000     3022 bytes  build/lib/protocol/elementIdValue.js</tspan>
+<tspan x="10" y="2266">138.  2017-04-18 04:44:06 +0000     3832 bytes  build/lib/protocol/elements.js</tspan>
+<tspan x="10" y="2282">139.  2017-04-18 04:44:06 +0000     2857 bytes  build/lib/protocol/execute.js</tspan>
+<tspan x="10" y="2298">140.  2017-04-18 04:44:06 +0000     3377 bytes  build/lib/protocol/executeAsync.js</tspan>
+<tspan x="10" y="2314">141.  2017-04-18 04:44:06 +0000      448 bytes  build/lib/protocol/file.js</tspan>
+<tspan x="10" y="2330">142.  2017-04-18 04:44:06 +0000      839 bytes  build/lib/protocol/forward.js</tspan>
+<tspan x="10" y="2346">143.  2017-04-18 04:44:06 +0000     1051 bytes  build/lib/protocol/frame.js</tspan>
+<tspan x="10" y="2362">144.  2017-04-18 04:44:06 +0000      566 bytes  build/lib/protocol/frameParent.js</tspan>
+<tspan x="10" y="2378">145.  2017-04-18 04:44:06 +0000      636 bytes  build/lib/protocol/getAppStrings.js</tspan>
+<tspan x="10" y="2394">146.  2017-04-18 04:44:06 +0000      850 bytes  build/lib/protocol/getCurrentDeviceActivity.js</tspan>
+<tspan x="10" y="2410">147.  2017-04-18 04:44:06 +0000      505 bytes  build/lib/protocol/getDeviceTime.js</tspan>
+<tspan x="10" y="2426">148.  2017-04-18 04:44:06 +0000     1819 bytes  build/lib/protocol/getNetworkConnection.js</tspan>
+<tspan x="10" y="2442">149.  2017-04-18 04:44:06 +0000     1419 bytes  build/lib/protocol/gridProxyDetails.js</tspan>
+<tspan x="10" y="2458">150.  2017-04-18 04:44:06 +0000     1409 bytes  build/lib/protocol/gridTestSession.js</tspan>
+<tspan x="10" y="2474">151.  2017-04-18 04:44:06 +0000     1242 bytes  build/lib/protocol/hideDeviceKeyboard.js</tspan>
+<tspan x="10" y="2490">152.  2017-04-18 04:44:06 +0000     1227 bytes  build/lib/protocol/imeActivate.js</tspan>
+<tspan x="10" y="2506">153.  2017-04-18 04:44:06 +0000      639 bytes  build/lib/protocol/imeActivated.js</tspan>
+<tspan x="10" y="2522">154.  2017-04-18 04:44:06 +0000      626 bytes  build/lib/protocol/imeActiveEngine.js</tspan>
+<tspan x="10" y="2538">155.  2017-04-18 04:44:06 +0000      661 bytes  build/lib/protocol/imeAvailableEngines.js</tspan>
+<tspan x="10" y="2554">156.  2017-04-18 04:44:06 +0000      516 bytes  build/lib/protocol/imeDeactivated.js</tspan>
+<tspan x="10" y="2570">157.  2017-04-18 04:44:06 +0000     2647 bytes  build/lib/protocol/init.js</tspan>
+<tspan x="10" y="2586">158.  2017-04-18 04:44:06 +0000     1041 bytes  build/lib/protocol/installApp.js</tspan>
+<tspan x="10" y="2602">159.  2017-04-18 04:44:06 +0000     1163 bytes  build/lib/protocol/isAppInstalled.js</tspan>
+<tspan x="10" y="2618">160.  2017-04-18 04:44:06 +0000      695 bytes  build/lib/protocol/isLocked.js</tspan>
+<tspan x="10" y="2634">161.  2017-04-18 04:44:06 +0000     2991 bytes  build/lib/protocol/keys.js</tspan>
+<tspan x="10" y="2650">162.  2017-04-18 04:44:06 +0000      954 bytes  build/lib/protocol/launch.js</tspan>
+<tspan x="10" y="2666">163.  2017-04-18 04:44:06 +0000     2294 bytes  build/lib/protocol/localStorage.js</tspan>
+<tspan x="10" y="2682">164.  2017-04-18 04:44:06 +0000      588 bytes  build/lib/protocol/localStorageSize.js</tspan>
+<tspan x="10" y="2698">165.  2017-04-18 04:44:06 +0000     1594 bytes  build/lib/protocol/location.js</tspan>
+<tspan x="10" y="2714">166.  2017-04-18 04:44:06 +0000      926 bytes  build/lib/protocol/lock.js</tspan>
+<tspan x="10" y="2730">167.  2017-04-18 04:44:06 +0000     1978 bytes  build/lib/protocol/log.js</tspan>
+<tspan x="10" y="2746">168.  2017-04-18 04:44:06 +0000      947 bytes  build/lib/protocol/logTypes.js</tspan>
+<tspan x="10" y="2762">169.  2017-04-18 04:44:06 +0000      814 bytes  build/lib/protocol/longPressKeycode.js</tspan>
+<tspan x="10" y="2778">170.  2017-04-18 04:44:06 +0000     2746 bytes  build/lib/protocol/moveTo.js</tspan>
+<tspan x="10" y="2794">171.  2017-04-18 04:44:06 +0000      545 bytes  build/lib/protocol/openNotifications.js</tspan>
+<tspan x="10" y="2810">172.  2017-04-18 04:44:06 +0000     1511 bytes  build/lib/protocol/orientation.js</tspan>
+<tspan x="10" y="2826">173.  2017-04-18 04:44:06 +0000      759 bytes  build/lib/protocol/performMultiAction.js</tspan>
+<tspan x="10" y="2842">174.  2017-04-18 04:44:06 +0000     1196 bytes  build/lib/protocol/performTouchAction.js</tspan>
+<tspan x="10" y="2858">175.  2017-04-18 04:44:06 +0000      784 bytes  build/lib/protocol/pressKeycode.js</tspan>
+<tspan x="10" y="2874">176.  2017-04-18 04:44:06 +0000      918 bytes  build/lib/protocol/pullFile.js</tspan>
+<tspan x="10" y="2890">177.  2017-04-18 04:44:06 +0000      849 bytes  build/lib/protocol/pullFolder.js</tspan>
+<tspan x="10" y="2906">178.  2017-04-18 04:44:06 +0000     1100 bytes  build/lib/protocol/pushFile.js</tspan>
+<tspan x="10" y="2922">179.  2017-04-18 04:44:06 +0000      439 bytes  build/lib/protocol/refresh.js</tspan>
+<tspan x="10" y="2938">180.  2017-04-18 04:44:06 +0000      971 bytes  build/lib/protocol/removeApp.js</tspan>
+<tspan x="10" y="2954">181.  2017-04-18 04:44:06 +0000      622 bytes  build/lib/protocol/reset.js</tspan>
+<tspan x="10" y="2970">182.  2017-04-18 04:44:06 +0000     1988 bytes  build/lib/protocol/rotate.js</tspan>
+<tspan x="10" y="2986">183.  2017-04-18 04:44:06 +0000      586 bytes  build/lib/protocol/screenshot.js</tspan>
+<tspan x="10" y="3002">184.  2017-04-18 04:44:06 +0000     3391 bytes  build/lib/protocol/session.js</tspan>
+<tspan x="10" y="3018">185.  2017-04-18 04:44:06 +0000     2328 bytes  build/lib/protocol/sessionStorage.js</tspan>
+<tspan x="10" y="3034">186.  2017-04-18 04:44:06 +0000      605 bytes  build/lib/protocol/sessionStorageSize.js</tspan>
+<tspan x="10" y="3050">187.  2017-04-18 04:44:06 +0000      994 bytes  build/lib/protocol/sessions.js</tspan>
+<tspan x="10" y="3066">188.  2017-04-18 04:44:06 +0000     1103 bytes  build/lib/protocol/setImmediateValue.js</tspan>
+<tspan x="10" y="3082">189.  2017-04-18 04:44:06 +0000     2289 bytes  build/lib/protocol/setNetworkConnection.js</tspan>
+<tspan x="10" y="3098">190.  2017-04-18 04:44:06 +0000     1176 bytes  build/lib/protocol/settings.js</tspan>
+<tspan x="10" y="3114">191.  2017-04-18 04:44:06 +0000      570 bytes  build/lib/protocol/shake.js</tspan>
+<tspan x="10" y="3130">192.  2017-04-18 04:44:06 +0000      445 bytes  build/lib/protocol/source.js</tspan>
+<tspan x="10" y="3146">193.  2017-04-18 04:44:06 +0000     1078 bytes  build/lib/protocol/startActivity.js</tspan>
+<tspan x="10" y="3162">194.  2017-04-18 04:44:06 +0000     1701 bytes  build/lib/protocol/status.js</tspan>
+<tspan x="10" y="3178">195.  2017-04-18 04:44:06 +0000     1059 bytes  build/lib/protocol/strings.js</tspan>
+<tspan x="10" y="3194">196.  2017-04-18 04:44:06 +0000      994 bytes  build/lib/protocol/submit.js</tspan>
+<tspan x="10" y="3210">197.  2017-04-18 04:44:06 +0000     1242 bytes  build/lib/protocol/timeouts.js</tspan>
+<tspan x="10" y="3226">198.  2017-04-18 04:44:06 +0000     1189 bytes  build/lib/protocol/timeoutsAsyncScript.js</tspan>
+<tspan x="10" y="3242">199.  2017-04-18 04:44:06 +0000     1462 bytes  build/lib/protocol/timeoutsImplicitWait.js</tspan>
+<tspan x="10" y="3258">200.  2017-04-18 04:44:06 +0000     1057 bytes  build/lib/protocol/title.js</tspan>
+<tspan x="10" y="3274">201.  2017-04-18 04:44:06 +0000      558 bytes  build/lib/protocol/toggleAirplaneMode.js</tspan>
+<tspan x="10" y="3290">202.  2017-04-18 04:44:06 +0000      508 bytes  build/lib/protocol/toggleData.js</tspan>
+<tspan x="10" y="3306">203.  2017-04-18 04:44:06 +0000      590 bytes  build/lib/protocol/toggleLocationServices.js</tspan>
+<tspan x="10" y="3322">204.  2017-04-18 04:44:06 +0000      511 bytes  build/lib/protocol/toggleWiFi.js</tspan>
+<tspan x="10" y="3338">205.  2017-04-18 04:44:06 +0000      934 bytes  build/lib/protocol/touchClick.js</tspan>
+<tspan x="10" y="3354">206.  2017-04-18 04:44:06 +0000      879 bytes  build/lib/protocol/touchDown.js</tspan>
+<tspan x="10" y="3370">207.  2017-04-18 04:44:06 +0000     1598 bytes  build/lib/protocol/touchFlick.js</tspan>
+<tspan x="10" y="3386">208.  2017-04-18 04:44:06 +0000      941 bytes  build/lib/protocol/touchId.js</tspan>
+<tspan x="10" y="3402">209.  2017-04-18 04:44:06 +0000      928 bytes  build/lib/protocol/touchLongClick.js</tspan>
+<tspan x="10" y="3418">210.  2017-04-18 04:44:06 +0000      927 bytes  build/lib/protocol/touchMove.js</tspan>
+<tspan x="10" y="3434">211.  2017-04-18 04:44:06 +0000     1174 bytes  build/lib/protocol/touchMultiPerform.js</tspan>
+<tspan x="10" y="3450">212.  2017-04-18 04:44:06 +0000     1358 bytes  build/lib/protocol/touchPerform.js</tspan>
+<tspan x="10" y="3466">213.  2017-04-18 04:44:06 +0000     1830 bytes  build/lib/protocol/touchScroll.js</tspan>
+<tspan x="10" y="3482">214.  2017-04-18 04:44:06 +0000      859 bytes  build/lib/protocol/touchUp.js</tspan>
+<tspan x="10" y="3498">215.  2017-04-18 04:44:06 +0000      652 bytes  build/lib/protocol/unlock.js</tspan>
+<tspan x="10" y="3514">216.  2017-04-18 04:44:06 +0000      940 bytes  build/lib/protocol/url.js</tspan>
+<tspan x="10" y="3530">217.  2017-04-18 04:44:06 +0000     1116 bytes  build/lib/protocol/window.js</tspan>
+<tspan x="10" y="3546">218.  2017-04-18 04:44:06 +0000     1138 bytes  build/lib/protocol/windowHandle.js</tspan>
+<tspan x="10" y="3562">219.  2017-04-18 04:44:06 +0000      909 bytes  build/lib/protocol/windowHandleFullscreen.js</tspan>
+<tspan x="10" y="3578">220.  2017-04-18 04:44:06 +0000      872 bytes  build/lib/protocol/windowHandleMaximize.js</tspan>
+<tspan x="10" y="3594">221.  2017-04-18 04:44:06 +0000     2600 bytes  build/lib/protocol/windowHandlePosition.js</tspan>
+<tspan x="10" y="3610">222.  2017-04-18 04:44:06 +0000     2973 bytes  build/lib/protocol/windowHandleSize.js</tspan>
+<tspan x="10" y="3626">223.  2017-04-18 04:44:06 +0000     1316 bytes  build/lib/protocol/windowHandles.js</tspan>
+<tspan x="10" y="3642">224.  2017-04-18 04:44:06 +0000    32237 bytes  build/lib/runner.js</tspan>
+<tspan x="10" y="3658">225.  2017-04-18 04:44:06 +0000     7284 bytes  build/lib/scripts/createSelectorScript.js</tspan>
+<tspan x="10" y="3674">226.  2017-04-18 04:44:06 +0000     1521 bytes  build/lib/scripts/eventSimulator.js</tspan>
+<tspan x="10" y="3690">227.  2017-04-18 04:44:06 +0000      700 bytes  build/lib/scripts/getHTML.js</tspan>
+<tspan x="10" y="3706">228.  2017-04-18 04:44:06 +0000      485 bytes  build/lib/scripts/getViewportSize.js</tspan>
+<tspan x="10" y="3722">229.  2017-04-18 04:44:06 +0000     1421 bytes  build/lib/scripts/isWithinViewport.js</tspan>
+<tspan x="10" y="3738">230.  2017-04-18 04:44:06 +0000      873 bytes  build/lib/scripts/newWindow.js</tspan>
+<tspan x="10" y="3754">231.  2017-04-18 04:44:06 +0000      240 bytes  build/lib/scripts/scroll.js</tspan>
+<tspan x="10" y="3770">232.  2017-04-18 04:44:06 +0000    11786 bytes  build/lib/utils/BaseReporter.js</tspan>
+<tspan x="10" y="3786">233.  2017-04-18 04:44:06 +0000    16558 bytes  build/lib/utils/ConfigParser.js</tspan>
+<tspan x="10" y="3802">234.  2017-04-18 04:44:06 +0000     6087 bytes  build/lib/utils/ErrorHandler.js</tspan>
+<tspan x="10" y="3818">235.  2017-04-18 04:44:06 +0000    12088 bytes  build/lib/utils/Logger.js</tspan>
+<tspan x="10" y="3834">236.  2017-04-18 04:44:06 +0000    18708 bytes  build/lib/utils/ReporterStats.js</tspan>
+<tspan x="10" y="3850">237.  2017-04-18 04:44:06 +0000    11012 bytes  build/lib/utils/RequestHandler.js</tspan>
+<tspan x="10" y="3866">238.  2017-04-18 04:44:06 +0000     5080 bytes  build/lib/utils/Timer.js</tspan>
+<tspan x="10" y="3882">239.  2017-04-18 04:44:06 +0000    25049 bytes  build/lib/webdriverio.js</tspan>
+<tspan x="10" y="3898">240.  2017-04-18 04:44:06 +0000    14339 bytes  build/package.json</tspan>
+<tspan x="10" y="3914">241.  2017-04-18 04:44:06 +0000     3414 bytes  docs/api.md</tspan>
+<tspan x="10" y="3930">242.  2017-04-18 04:44:06 +0000     5811 bytes  docs/guide.md</tspan>
+<tspan x="10" y="3946">243.  2017-04-18 04:44:06 +0000     3210 bytes  docs/guide/getstarted/boilerplate.md</tspan>
+<tspan x="10" y="3962">244.  2017-04-18 04:44:06 +0000     7394 bytes  docs/guide/getstarted/configuration.md</tspan>
+<tspan x="10" y="3978">245.  2017-04-18 04:44:06 +0000     2823 bytes  docs/guide/getstarted/install.md</tspan>
+<tspan x="10" y="3994">246.  2017-04-18 04:44:06 +0000     3168 bytes  docs/guide/getstarted/modes.md</tspan>
+<tspan x="10" y="4010">247.  2017-04-18 04:44:06 +0000     2455 bytes  docs/guide/getstarted/upgrade.md</tspan>
+<tspan x="10" y="4026">248.  2017-04-18 04:44:06 +0000     6113 bytes  docs/guide/getstarted/v4.md</tspan>
+<tspan x="10" y="4042">249.  2017-04-18 04:44:06 +0000     2217 bytes  docs/guide/plugins/browserevent.md</tspan>
+<tspan x="10" y="4058">250.  2017-04-18 04:44:06 +0000     2318 bytes  docs/guide/plugins/grunt-webdriver.md</tspan>
+<tspan x="10" y="4074">251.  2017-04-18 04:44:06 +0000     1046 bytes  docs/guide/plugins/gulp-webdriver.md</tspan>
+<tspan x="10" y="4090">252.  2017-04-18 04:44:06 +0000    16875 bytes  docs/guide/plugins/webdrivercss.md</tspan>
+<tspan x="10" y="4106">253.  2017-04-18 04:44:06 +0000     2476 bytes  docs/guide/plugins/webdriverjs-angular.md</tspan>
+<tspan x="10" y="4122">254.  2017-04-18 04:44:06 +0000     6539 bytes  docs/guide/plugins/webdriverrtc.md</tspan>
+<tspan x="10" y="4138">255.  2017-04-18 04:44:06 +0000     2804 bytes  docs/guide/reporters/allure.md</tspan>
+<tspan x="10" y="4154">256.  2017-04-18 04:44:06 +0000     1151 bytes  docs/guide/reporters/concise.md</tspan>
+<tspan x="10" y="4170">257.  2017-04-18 04:44:06 +0000     2548 bytes  docs/guide/reporters/customreporter.md</tspan>
+<tspan x="10" y="4186">258.  2017-04-18 04:44:06 +0000      779 bytes  docs/guide/reporters/dot.md</tspan>
+<tspan x="10" y="4202">259.  2017-04-18 04:44:06 +0000     4202 bytes  docs/guide/reporters/json.md</tspan>
+<tspan x="10" y="4218">260.  2017-04-18 04:44:06 +0000     4753 bytes  docs/guide/reporters/junit.md</tspan>
+<tspan x="10" y="4234">261.  2017-04-18 04:44:06 +0000      844 bytes  docs/guide/reporters/spec.md</tspan>
+<tspan x="10" y="4250">262.  2017-04-18 04:44:06 +0000      987 bytes  docs/guide/reporters/teamcity.md</tspan>
+<tspan x="10" y="4266">263.  2017-04-18 04:44:06 +0000     1661 bytes  docs/guide/services/appium.md</tspan>
+<tspan x="10" y="4282">264.  2017-04-18 04:44:06 +0000     1668 bytes  docs/guide/services/browserstack.md</tspan>
+<tspan x="10" y="4298">265.  2017-04-18 04:44:06 +0000     2142 bytes  docs/guide/services/firefox-profile.md</tspan>
+<tspan x="10" y="4314">266.  2017-04-18 04:44:06 +0000      966 bytes  docs/guide/services/phantomjs.md</tspan>
+<tspan x="10" y="4330">267.  2017-04-18 04:44:06 +0000     2376 bytes  docs/guide/services/sauce.md</tspan>
+<tspan x="10" y="4346">268.  2017-04-18 04:44:06 +0000     1588 bytes  docs/guide/services/selenium-standalone.md</tspan>
+<tspan x="10" y="4362">269.  2017-04-18 04:44:06 +0000     1721 bytes  docs/guide/services/static-server.md</tspan>
+<tspan x="10" y="4378">270.  2017-04-18 04:44:06 +0000     1418 bytes  docs/guide/services/testingbot.md</tspan>
+<tspan x="10" y="4394">271.  2017-04-18 04:44:06 +0000     6751 bytes  docs/guide/services/visual-regression.md</tspan>
+<tspan x="10" y="4410">272.  2017-04-18 04:44:06 +0000     1591 bytes  docs/guide/services/webpack.md</tspan>
+<tspan x="10" y="4426">273.  2017-04-18 04:44:06 +0000     2121 bytes  docs/guide/testrunner/browserobject.md</tspan>
+<tspan x="10" y="4442">274.  2017-04-18 04:44:06 +0000    12623 bytes  docs/guide/testrunner/configurationfile.md</tspan>
+<tspan x="10" y="4458">275.  2017-04-18 04:44:06 +0000     4017 bytes  docs/guide/testrunner/debugging.md</tspan>
+<tspan x="10" y="4474">276.  2017-04-18 04:44:06 +0000     4978 bytes  docs/guide/testrunner/frameworks.md</tspan>
+<tspan x="10" y="4490">277.  2017-04-18 04:44:06 +0000     4487 bytes  docs/guide/testrunner/gettingstarted.md</tspan>
+<tspan x="10" y="4506">278.  2017-04-18 04:44:06 +0000     3136 bytes  docs/guide/testrunner/jenkins.md</tspan>
+<tspan x="10" y="4522">279.  2017-04-18 04:44:06 +0000     5183 bytes  docs/guide/testrunner/organizesuite.md</tspan>
+<tspan x="10" y="4538">280.  2017-04-18 04:44:06 +0000     6709 bytes  docs/guide/testrunner/pageobjects.md</tspan>
+<tspan x="10" y="4554">281.  2017-04-18 04:44:06 +0000     2730 bytes  docs/guide/testrunner/retry.md</tspan>
+<tspan x="10" y="4570">282.  2017-04-18 04:44:06 +0000     3993 bytes  docs/guide/testrunner/timeouts.md</tspan>
+<tspan x="10" y="4586">283.  2017-04-18 04:44:06 +0000     1925 bytes  docs/guide/usage/autocompletion.md</tspan>
+<tspan x="10" y="4602">284.  2017-04-18 04:44:06 +0000     3468 bytes  docs/guide/usage/bindingscommands.md</tspan>
+<tspan x="10" y="4618">285.  2017-04-18 04:44:06 +0000     6720 bytes  docs/guide/usage/cloudservices.md</tspan>
+<tspan x="10" y="4634">286.  2017-04-18 04:44:06 +0000     2976 bytes  docs/guide/usage/customcommands.md</tspan>
+<tspan x="10" y="4650">287.  2017-04-18 04:44:06 +0000     1715 bytes  docs/guide/usage/eventhandling.md</tspan>
+<tspan x="10" y="4666">288.  2017-04-18 04:44:06 +0000     5867 bytes  docs/guide/usage/multiremote.md</tspan>
+<tspan x="10" y="4682">289.  2017-04-18 04:44:06 +0000     1718 bytes  docs/guide/usage/repl.md</tspan>
+<tspan x="10" y="4698">290.  2017-04-18 04:44:06 +0000     7478 bytes  docs/guide/usage/selectors.md</tspan>
+<tspan x="10" y="4714">291.  2017-04-18 04:44:06 +0000     2301 bytes  docs/guide/usage/seleniumgrid.md</tspan>
+<tspan x="10" y="4730">292.  2017-04-18 04:44:06 +0000     1584 bytes  docs/guide/usage/transferpromises.md</tspan>
+<tspan x="10" y="4746">293.  2017-04-18 04:44:06 +0000     7757 bytes  docs/index.md</tspan>
+<tspan x="10" y="4762">ls: cannot access lib/commands/6415.js: No such file or directory</tspan>
+<tspan x="10" y="4778">294.  2017-04-18 04:44:06 +0000     7757 bytes  lib/commands/$$.js</tspan>
+<tspan x="10" y="4794">295.  2017-04-18 04:44:06 +0000     1132 bytes  lib/commands/$.js</tspan>
+<tspan x="10" y="4810">296.  2017-04-18 04:44:06 +0000     1660 bytes  lib/commands/addCommand.js</tspan>
+<tspan x="10" y="4826">297.  2017-04-18 04:44:06 +0000     1944 bytes  lib/commands/addValue.js</tspan>
+<tspan x="10" y="4842">298.  2017-04-18 04:44:06 +0000     1308 bytes  lib/commands/call.js</tspan>
+<tspan x="10" y="4858">299.  2017-04-18 04:44:06 +0000     1772 bytes  lib/commands/chooseFile.js</tspan>
+<tspan x="10" y="4874">300.  2017-04-18 04:44:06 +0000     1399 bytes  lib/commands/clearElement.js</tspan>
+<tspan x="10" y="4890">301.  2017-04-18 04:44:06 +0000     1390 bytes  lib/commands/click.js</tspan>
+<tspan x="10" y="4906">302.  2017-04-18 04:44:06 +0000     1315 bytes  lib/commands/close.js</tspan>
+<tspan x="10" y="4922">303.  2017-04-18 04:44:06 +0000     3535 bytes  lib/commands/debug.js</tspan>
+<tspan x="10" y="4938">304.  2017-04-18 04:44:06 +0000     1355 bytes  lib/commands/deleteCookie.js</tspan>
+<tspan x="10" y="4954">305.  2017-04-18 04:44:06 +0000     1642 bytes  lib/commands/doubleClick.js</tspan>
+<tspan x="10" y="4970">306.  2017-04-18 04:44:06 +0000      983 bytes  lib/commands/dragAndDrop.js</tspan>
+<tspan x="10" y="4986">307.  2017-04-18 04:44:06 +0000      775 bytes  lib/commands/end.js</tspan>
+<tspan x="10" y="5002">308.  2017-04-18 04:44:06 +0000      552 bytes  lib/commands/endAll.js</tspan>
+<tspan x="10" y="5018">309.  2017-04-18 04:44:06 +0000     2317 bytes  lib/commands/getAttribute.js</tspan>
+<tspan x="10" y="5034">310.  2017-04-18 04:44:06 +0000     2664 bytes  lib/commands/getCommandHistory.js</tspan>
+<tspan x="10" y="5050">311.  2017-04-18 04:44:06 +0000     1403 bytes  lib/commands/getCookie.js</tspan>
+<tspan x="10" y="5066">312.  2017-04-18 04:44:06 +0000     3533 bytes  lib/commands/getCssProperty.js</tspan>
+<tspan x="10" y="5082">313.  2017-04-18 04:44:06 +0000      704 bytes  lib/commands/getCurrentTabId.js</tspan>
+<tspan x="10" y="5098">314.  2017-04-18 04:44:06 +0000     2253 bytes  lib/commands/getElementSize.js</tspan>
+<tspan x="10" y="5114">315.  2017-04-18 04:44:06 +0000      726 bytes  lib/commands/getGeoLocation.js</tspan>
+<tspan x="10" y="5130">316.  2017-04-18 04:44:06 +0000     1363 bytes  lib/commands/getGridNodeDetails.js</tspan>
+<tspan x="10" y="5146">317.  2017-04-18 04:44:06 +0000     1695 bytes  lib/commands/getHTML.js</tspan>
+<tspan x="10" y="5162">318.  2017-04-18 04:44:06 +0000     2743 bytes  lib/commands/getLocation.js</tspan>
+<tspan x="10" y="5178">319.  2017-04-18 04:44:06 +0000     2194 bytes  lib/commands/getLocationInView.js</tspan>
+<tspan x="10" y="5194">320.  2017-04-18 04:44:06 +0000      927 bytes  lib/commands/getOrientation.js</tspan>
+<tspan x="10" y="5210">321.  2017-04-18 04:44:06 +0000      767 bytes  lib/commands/getSource.js</tspan>
+<tspan x="10" y="5226">322.  2017-04-18 04:44:06 +0000      908 bytes  lib/commands/getTabIds.js</tspan>
+<tspan x="10" y="5242">323.  2017-04-18 04:44:06 +0000     1291 bytes  lib/commands/getTagName.js</tspan>
+<tspan x="10" y="5258">324.  2017-04-18 04:44:06 +0000     2290 bytes  lib/commands/getText.js</tspan>
+<tspan x="10" y="5274">325.  2017-04-18 04:44:06 +0000      742 bytes  lib/commands/getTitle.js</tspan>
+<tspan x="10" y="5290">326.  2017-04-18 04:44:06 +0000      575 bytes  lib/commands/getUrl.js</tspan>
+<tspan x="10" y="5306">327.  2017-04-18 04:44:06 +0000     1313 bytes  lib/commands/getValue.js</tspan>
+<tspan x="10" y="5322">328.  2017-04-18 04:44:06 +0000     1394 bytes  lib/commands/getViewportSize.js</tspan>
+<tspan x="10" y="5338">329.  2017-04-18 04:44:06 +0000     1111 bytes  lib/commands/hasFocus.js</tspan>
+<tspan x="10" y="5354">330.  2017-04-18 04:44:06 +0000      640 bytes  lib/commands/hold.js</tspan>
+<tspan x="10" y="5370">331.  2017-04-18 04:44:06 +0000     1658 bytes  lib/commands/isEnabled.js</tspan>
+<tspan x="10" y="5386">332.  2017-04-18 04:44:06 +0000     1504 bytes  lib/commands/isExisting.js</tspan>
+<tspan x="10" y="5402">333.  2017-04-18 04:44:06 +0000     1723 bytes  lib/commands/isSelected.js</tspan>
+<tspan x="10" y="5418">334.  2017-04-18 04:44:06 +0000     1902 bytes  lib/commands/isVisible.js</tspan>
+<tspan x="10" y="5434">335.  2017-04-18 04:44:06 +0000     2098 bytes  lib/commands/isVisibleWithinViewport.js</tspan>
+<tspan x="10" y="5450">336.  2017-04-18 04:44:06 +0000      699 bytes  lib/commands/leftClick.js</tspan>
+<tspan x="10" y="5466">337.  2017-04-18 04:44:06 +0000      709 bytes  lib/commands/middleClick.js</tspan>
+<tspan x="10" y="5482">338.  2017-04-18 04:44:06 +0000     2201 bytes  lib/commands/moveToObject.js</tspan>
+<tspan x="10" y="5498">339.  2017-04-18 04:44:06 +0000     1866 bytes  lib/commands/newWindow.js</tspan>
+<tspan x="10" y="5514">340.  2017-04-18 04:44:06 +0000      805 bytes  lib/commands/pause.js</tspan>
+<tspan x="10" y="5530">341.  2017-04-18 04:44:06 +0000      356 bytes  lib/commands/release.js</tspan>
+<tspan x="10" y="5546">342.  2017-04-18 04:44:06 +0000     1322 bytes  lib/commands/reload.js</tspan>
+<tspan x="10" y="5562">343.  2017-04-18 04:44:06 +0000      704 bytes  lib/commands/rightClick.js</tspan>
+<tspan x="10" y="5578">344.  2017-04-18 04:44:06 +0000     1556 bytes  lib/commands/saveScreenshot.js</tspan>
+<tspan x="10" y="5594">345.  2017-04-18 04:44:06 +0000     2576 bytes  lib/commands/scroll.js</tspan>
+<tspan x="10" y="5610">346.  2017-04-18 04:44:06 +0000     2401 bytes  lib/commands/selectByAttribute.js</tspan>
+<tspan x="10" y="5626">347.  2017-04-18 04:44:06 +0000     2069 bytes  lib/commands/selectByIndex.js</tspan>
+<tspan x="10" y="5642">348.  2017-04-18 04:44:06 +0000     1174 bytes  lib/commands/selectByValue.js</tspan>
+<tspan x="10" y="5658">349.  2017-04-18 04:44:06 +0000     2200 bytes  lib/commands/selectByVisibleText.js</tspan>
+<tspan x="10" y="5674">350.  2017-04-18 04:44:06 +0000     3482 bytes  lib/commands/selectorExecute.js</tspan>
+<tspan x="10" y="5690">351.  2017-04-18 04:44:06 +0000     3665 bytes  lib/commands/selectorExecuteAsync.js</tspan>
+<tspan x="10" y="5706">352.  2017-04-18 04:44:06 +0000     1126 bytes  lib/commands/setCookie.js</tspan>
+<tspan x="10" y="5722">353.  2017-04-18 04:44:06 +0000      721 bytes  lib/commands/setGeoLocation.js</tspan>
+<tspan x="10" y="5738">354.  2017-04-18 04:44:06 +0000      891 bytes  lib/commands/setOrientation.js</tspan>
+<tspan x="10" y="5754">355.  2017-04-18 04:44:06 +0000     1913 bytes  lib/commands/setValue.js</tspan>
+<tspan x="10" y="5770">356.  2017-04-18 04:44:06 +0000     3192 bytes  lib/commands/setViewportSize.js</tspan>
+<tspan x="10" y="5786">357.  2017-04-18 04:44:06 +0000     1267 bytes  lib/commands/submitForm.js</tspan>
+<tspan x="10" y="5802">358.  2017-04-18 04:44:06 +0000     1465 bytes  lib/commands/swipe.js</tspan>
+<tspan x="10" y="5818">359.  2017-04-18 04:44:06 +0000      787 bytes  lib/commands/swipeDown.js</tspan>
+<tspan x="10" y="5834">360.  2017-04-18 04:44:06 +0000      807 bytes  lib/commands/swipeLeft.js</tspan>
+<tspan x="10" y="5850">361.  2017-04-18 04:44:06 +0000      811 bytes  lib/commands/swipeRight.js</tspan>
+<tspan x="10" y="5866">362.  2017-04-18 04:44:06 +0000      799 bytes  lib/commands/swipeUp.js</tspan>
+<tspan x="10" y="5882">363.  2017-04-18 04:44:06 +0000      756 bytes  lib/commands/switchTab.js</tspan>
+<tspan x="10" y="5898">364.  2017-04-18 04:44:06 +0000      792 bytes  lib/commands/touch.js</tspan>
+<tspan x="10" y="5914">365.  2017-04-18 04:44:06 +0000    10089 bytes  lib/commands/touchAction.js</tspan>
+<tspan x="10" y="5930">366.  2017-04-18 04:44:06 +0000     1304 bytes  lib/commands/uploadFile.js</tspan>
+<tspan x="10" y="5946">367.  2017-04-18 04:44:06 +0000     2553 bytes  lib/commands/waitForEnabled.js</tspan>
+<tspan x="10" y="5962">368.  2017-04-18 04:44:06 +0000     2592 bytes  lib/commands/waitForExist.js</tspan>
+<tspan x="10" y="5978">369.  2017-04-18 04:44:06 +0000     2717 bytes  lib/commands/waitForSelected.js</tspan>
+<tspan x="10" y="5994">370.  2017-04-18 04:44:06 +0000     2482 bytes  lib/commands/waitForText.js</tspan>
+<tspan x="10" y="6010">371.  2017-04-18 04:44:06 +0000     2510 bytes  lib/commands/waitForValue.js</tspan>
+<tspan x="10" y="6026">372.  2017-04-18 04:44:06 +0000     2531 bytes  lib/commands/waitForVisible.js</tspan>
+<tspan x="10" y="6042">373.  2017-04-18 04:44:06 +0000     2237 bytes  lib/commands/waitUntil.js</tspan>
+<tspan x="10" y="6058">374.  2017-04-18 04:44:06 +0000      789 bytes  lib/protocol/alertAccept.js</tspan>
+<tspan x="10" y="6074">375.  2017-04-18 04:44:06 +0000      884 bytes  lib/protocol/alertDismiss.js</tspan>
+<tspan x="10" y="6090">376.  2017-04-18 04:44:06 +0000     1172 bytes  lib/protocol/alertText.js</tspan>
+<tspan x="10" y="6106">377.  2017-04-18 04:44:06 +0000      517 bytes  lib/protocol/applicationCacheStatus.js</tspan>
+<tspan x="10" y="6122">378.  2017-04-18 04:44:06 +0000      691 bytes  lib/protocol/back.js</tspan>
+<tspan x="10" y="6138">379.  2017-04-18 04:44:06 +0000      600 bytes  lib/protocol/background.js</tspan>
+<tspan x="10" y="6154">380.  2017-04-18 04:44:06 +0000      814 bytes  lib/protocol/buttonDown.js</tspan>
+<tspan x="10" y="6170">381.  2017-04-18 04:44:06 +0000      680 bytes  lib/protocol/buttonPress.js</tspan>
+<tspan x="10" y="6186">382.  2017-04-18 04:44:06 +0000      754 bytes  lib/protocol/buttonUp.js</tspan>
+<tspan x="10" y="6202">383.  2017-04-18 04:44:06 +0000      442 bytes  lib/protocol/closeApp.js</tspan>
+<tspan x="10" y="6218">384.  2017-04-18 04:44:06 +0000      656 bytes  lib/protocol/context.js</tspan>
+<tspan x="10" y="6234">385.  2017-04-18 04:44:06 +0000      415 bytes  lib/protocol/contexts.js</tspan>
+<tspan x="10" y="6250">386.  2017-04-18 04:44:06 +0000     1496 bytes  lib/protocol/cookie.js</tspan>
+<tspan x="10" y="6266">387.  2017-04-18 04:44:06 +0000      614 bytes  lib/protocol/currentActivity.js</tspan>
+<tspan x="10" y="6282">388.  2017-04-18 04:44:06 +0000      607 bytes  lib/protocol/deviceKeyEvent.js</tspan>
+<tspan x="10" y="6298">389.  2017-04-18 04:44:06 +0000      437 bytes  lib/protocol/doDoubleClick.js</tspan>
+<tspan x="10" y="6314">390.  2017-04-18 04:44:06 +0000     2092 bytes  lib/protocol/element.js</tspan>
+<tspan x="10" y="6330">391.  2017-04-18 04:44:06 +0000      496 bytes  lib/protocol/elementActive.js</tspan>
+<tspan x="10" y="6346">392.  2017-04-18 04:44:06 +0000      910 bytes  lib/protocol/elementIdAttribute.js</tspan>
+<tspan x="10" y="6362">393.  2017-04-18 04:44:06 +0000      681 bytes  lib/protocol/elementIdClear.js</tspan>
+<tspan x="10" y="6378">394.  2017-04-18 04:44:06 +0000      651 bytes  lib/protocol/elementIdClick.js</tspan>
+<tspan x="10" y="6394">395.  2017-04-18 04:44:06 +0000     1035 bytes  lib/protocol/elementIdCssProperty.js</tspan>
+<tspan x="10" y="6410">396.  2017-04-18 04:44:06 +0000      748 bytes  lib/protocol/elementIdDisplayed.js</tspan>
+<tspan x="10" y="6426">397.  2017-04-18 04:44:06 +0000     1722 bytes  lib/protocol/elementIdElement.js</tspan>
+<tspan x="10" y="6442">398.  2017-04-18 04:44:06 +0000     1224 bytes  lib/protocol/elementIdElements.js</tspan>
+<tspan x="10" y="6458">399.  2017-04-18 04:44:06 +0000      696 bytes  lib/protocol/elementIdEnabled.js</tspan>
+<tspan x="10" y="6474">400.  2017-04-18 04:44:06 +0000      983 bytes  lib/protocol/elementIdLocation.js</tspan>
+<tspan x="10" y="6490">401.  2017-04-18 04:44:06 +0000     1049 bytes  lib/protocol/elementIdLocationInView.js</tspan>
+<tspan x="10" y="6506">402.  2017-04-18 04:44:06 +0000      688 bytes  lib/protocol/elementIdName.js</tspan>
+<tspan x="10" y="6522">403.  2017-04-18 04:44:06 +0000      711 bytes  lib/protocol/elementIdRect.js</tspan>
+<tspan x="10" y="6538">404.  2017-04-18 04:44:06 +0000      767 bytes  lib/protocol/elementIdSelected.js</tspan>
+<tspan x="10" y="6554">405.  2017-04-18 04:44:06 +0000      892 bytes  lib/protocol/elementIdSize.js</tspan>
+<tspan x="10" y="6570">406.  2017-04-18 04:44:06 +0000      669 bytes  lib/protocol/elementIdText.js</tspan>
+<tspan x="10" y="6586">407.  2017-04-18 04:44:06 +0000     1751 bytes  lib/protocol/elementIdValue.js</tspan>
+<tspan x="10" y="6602">408.  2017-04-18 04:44:06 +0000     3184 bytes  lib/protocol/elements.js</tspan>
+<tspan x="10" y="6618">409.  2017-04-18 04:44:06 +0000     2459 bytes  lib/protocol/execute.js</tspan>
+<tspan x="10" y="6634">410.  2017-04-18 04:44:06 +0000     2961 bytes  lib/protocol/executeAsync.js</tspan>
+<tspan x="10" y="6650">411.  2017-04-18 04:44:06 +0000      319 bytes  lib/protocol/file.js</tspan>
+<tspan x="10" y="6666">412.  2017-04-18 04:44:06 +0000      706 bytes  lib/protocol/forward.js</tspan>
+<tspan x="10" y="6682">413.  2017-04-18 04:44:06 +0000      842 bytes  lib/protocol/frame.js</tspan>
+<tspan x="10" y="6698">414.  2017-04-18 04:44:06 +0000      430 bytes  lib/protocol/frameParent.js</tspan>
+<tspan x="10" y="6714">415.  2017-04-18 04:44:06 +0000      498 bytes  lib/protocol/getAppStrings.js</tspan>
+<tspan x="10" y="6730">416.  2017-04-18 04:44:06 +0000      701 bytes  lib/protocol/getCurrentDeviceActivity.js</tspan>
+<tspan x="10" y="6746">417.  2017-04-18 04:44:06 +0000      371 bytes  lib/protocol/getDeviceTime.js</tspan>
+<tspan x="10" y="6762">418.  2017-04-18 04:44:06 +0000     1420 bytes  lib/protocol/getNetworkConnection.js</tspan>
+<tspan x="10" y="6778">419.  2017-04-18 04:44:06 +0000     1176 bytes  lib/protocol/gridProxyDetails.js</tspan>
+<tspan x="10" y="6794">420.  2017-04-18 04:44:06 +0000     1190 bytes  lib/protocol/gridTestSession.js</tspan>
+<tspan x="10" y="6810">421.  2017-04-18 04:44:06 +0000      985 bytes  lib/protocol/hideDeviceKeyboard.js</tspan>
+<tspan x="10" y="6826">422.  2017-04-18 04:44:06 +0000     1037 bytes  lib/protocol/imeActivate.js</tspan>
+<tspan x="10" y="6842">423.  2017-04-18 04:44:06 +0000      516 bytes  lib/protocol/imeActivated.js</tspan>
+<tspan x="10" y="6858">424.  2017-04-18 04:44:06 +0000      490 bytes  lib/protocol/imeActiveEngine.js</tspan>
+<tspan x="10" y="6874">425.  2017-04-18 04:44:06 +0000      521 bytes  lib/protocol/imeAvailableEngines.js</tspan>
+<tspan x="10" y="6890">426.  2017-04-18 04:44:06 +0000      381 bytes  lib/protocol/imeDeactivated.js</tspan>
+<tspan x="10" y="6906">427.  2017-04-18 04:44:06 +0000     2114 bytes  lib/protocol/init.js</tspan>
+<tspan x="10" y="6922">428.  2017-04-18 04:44:06 +0000      831 bytes  lib/protocol/installApp.js</tspan>
+<tspan x="10" y="6938">429.  2017-04-18 04:44:06 +0000      945 bytes  lib/protocol/isAppInstalled.js</tspan>
+<tspan x="10" y="6954">430.  2017-04-18 04:44:06 +0000      562 bytes  lib/protocol/isLocked.js</tspan>
+<tspan x="10" y="6970">431.  2017-04-18 04:44:06 +0000     1976 bytes  lib/protocol/keys.js</tspan>
+<tspan x="10" y="6986">432.  2017-04-18 04:44:06 +0000      823 bytes  lib/protocol/launch.js</tspan>
+<tspan x="10" y="7002">433.  2017-04-18 04:44:06 +0000     1795 bytes  lib/protocol/localStorage.js</tspan>
+<tspan x="10" y="7018">434.  2017-04-18 04:44:06 +0000      451 bytes  lib/protocol/localStorageSize.js</tspan>
+<tspan x="10" y="7034">435.  2017-04-18 04:44:06 +0000     1208 bytes  lib/protocol/location.js</tspan>
+<tspan x="10" y="7050">436.  2017-04-18 04:44:06 +0000      709 bytes  lib/protocol/lock.js</tspan>
+<tspan x="10" y="7066">437.  2017-04-18 04:44:06 +0000     1302 bytes  lib/protocol/log.js</tspan>
+<tspan x="10" y="7082">438.  2017-04-18 04:44:06 +0000      814 bytes  lib/protocol/logTypes.js</tspan>
+<tspan x="10" y="7098">439.  2017-04-18 04:44:06 +0000      653 bytes  lib/protocol/longPressKeycode.js</tspan>
+<tspan x="10" y="7114">440.  2017-04-18 04:44:06 +0000     2287 bytes  lib/protocol/moveTo.js</tspan>
+<tspan x="10" y="7130">441.  2017-04-18 04:44:06 +0000      403 bytes  lib/protocol/openNotifications.js</tspan>
+<tspan x="10" y="7146">442.  2017-04-18 04:44:06 +0000     1373 bytes  lib/protocol/orientation.js</tspan>
+<tspan x="10" y="7162">443.  2017-04-18 04:44:06 +0000      537 bytes  lib/protocol/performMultiAction.js</tspan>
+<tspan x="10" y="7178">444.  2017-04-18 04:44:06 +0000      740 bytes  lib/protocol/performTouchAction.js</tspan>
+<tspan x="10" y="7194">445.  2017-04-18 04:44:06 +0000      627 bytes  lib/protocol/pressKeycode.js</tspan>
+<tspan x="10" y="7210">446.  2017-04-18 04:44:06 +0000      719 bytes  lib/protocol/pullFile.js</tspan>
+<tspan x="10" y="7226">447.  2017-04-18 04:44:06 +0000      651 bytes  lib/protocol/pullFolder.js</tspan>
+<tspan x="10" y="7242">448.  2017-04-18 04:44:06 +0000      898 bytes  lib/protocol/pushFile.js</tspan>
+<tspan x="10" y="7258">449.  2017-04-18 04:44:06 +0000      307 bytes  lib/protocol/refresh.js</tspan>
+<tspan x="10" y="7274">450.  2017-04-18 04:44:06 +0000      767 bytes  lib/protocol/removeApp.js</tspan>
+<tspan x="10" y="7290">451.  2017-04-18 04:44:06 +0000      492 bytes  lib/protocol/reset.js</tspan>
+<tspan x="10" y="7306">452.  2017-04-18 04:44:06 +0000     1352 bytes  lib/protocol/rotate.js</tspan>
+<tspan x="10" y="7322">453.  2017-04-18 04:44:06 +0000      455 bytes  lib/protocol/screenshot.js</tspan>
+<tspan x="10" y="7338">454.  2017-04-18 04:44:06 +0000     3022 bytes  lib/protocol/session.js</tspan>
+<tspan x="10" y="7354">455.  2017-04-18 04:44:06 +0000     1827 bytes  lib/protocol/sessionStorage.js</tspan>
+<tspan x="10" y="7370">456.  2017-04-18 04:44:06 +0000      466 bytes  lib/protocol/sessionStorageSize.js</tspan>
+<tspan x="10" y="7386">457.  2017-04-18 04:44:06 +0000      861 bytes  lib/protocol/sessions.js</tspan>
+<tspan x="10" y="7402">458.  2017-04-18 04:44:06 +0000      889 bytes  lib/protocol/setImmediateValue.js</tspan>
+<tspan x="10" y="7418">459.  2017-04-18 04:44:06 +0000     2003 bytes  lib/protocol/setNetworkConnection.js</tspan>
+<tspan x="10" y="7434">460.  2017-04-18 04:44:06 +0000     1030 bytes  lib/protocol/settings.js</tspan>
+<tspan x="10" y="7450">461.  2017-04-18 04:44:06 +0000      440 bytes  lib/protocol/shake.js</tspan>
+<tspan x="10" y="7466">462.  2017-04-18 04:44:06 +0000      318 bytes  lib/protocol/source.js</tspan>
+<tspan x="10" y="7482">463.  2017-04-18 04:44:06 +0000      871 bytes  lib/protocol/startActivity.js</tspan>
+<tspan x="10" y="7498">464.  2017-04-18 04:44:06 +0000     1570 bytes  lib/protocol/status.js</tspan>
+<tspan x="10" y="7514">465.  2017-04-18 04:44:06 +0000      917 bytes  lib/protocol/strings.js</tspan>
+<tspan x="10" y="7530">466.  2017-04-18 04:44:06 +0000      813 bytes  lib/protocol/submit.js</tspan>
+<tspan x="10" y="7546">467.  2017-04-18 04:44:06 +0000     1064 bytes  lib/protocol/timeouts.js</tspan>
+<tspan x="10" y="7562">468.  2017-04-18 04:44:06 +0000      988 bytes  lib/protocol/timeoutsAsyncScript.js</tspan>
+<tspan x="10" y="7578">469.  2017-04-18 04:44:06 +0000     1254 bytes  lib/protocol/timeoutsImplicitWait.js</tspan>
+<tspan x="10" y="7594">470.  2017-04-18 04:44:06 +0000      927 bytes  lib/protocol/title.js</tspan>
+<tspan x="10" y="7610">471.  2017-04-18 04:44:06 +0000      415 bytes  lib/protocol/toggleAirplaneMode.js</tspan>
+<tspan x="10" y="7626">472.  2017-04-18 04:44:06 +0000      373 bytes  lib/protocol/toggleData.js</tspan>
+<tspan x="10" y="7642">473.  2017-04-18 04:44:06 +0000      443 bytes  lib/protocol/toggleLocationServices.js</tspan>
+<tspan x="10" y="7658">474.  2017-04-18 04:44:06 +0000      376 bytes  lib/protocol/toggleWiFi.js</tspan>
+<tspan x="10" y="7674">475.  2017-04-18 04:44:06 +0000      751 bytes  lib/protocol/touchClick.js</tspan>
+<tspan x="10" y="7690">476.  2017-04-18 04:44:06 +0000      700 bytes  lib/protocol/touchDown.js</tspan>
+<tspan x="10" y="7706">477.  2017-04-18 04:44:06 +0000     1365 bytes  lib/protocol/touchFlick.js</tspan>
+<tspan x="10" y="7722">478.  2017-04-18 04:44:06 +0000      724 bytes  lib/protocol/touchId.js</tspan>
+<tspan x="10" y="7738">479.  2017-04-18 04:44:06 +0000      744 bytes  lib/protocol/touchLongClick.js</tspan>
+<tspan x="10" y="7754">480.  2017-04-18 04:44:06 +0000      736 bytes  lib/protocol/touchMove.js</tspan>
+<tspan x="10" y="7770">481.  2017-04-18 04:44:06 +0000     1023 bytes  lib/protocol/touchMultiPerform.js</tspan>
+<tspan x="10" y="7786">482.  2017-04-18 04:44:06 +0000     1212 bytes  lib/protocol/touchPerform.js</tspan>
+<tspan x="10" y="7802">483.  2017-04-18 04:44:06 +0000     1573 bytes  lib/protocol/touchScroll.js</tspan>
+<tspan x="10" y="7818">484.  2017-04-18 04:44:06 +0000      673 bytes  lib/protocol/touchUp.js</tspan>
+<tspan x="10" y="7834">485.  2017-04-18 04:44:06 +0000      521 bytes  lib/protocol/unlock.js</tspan>
+<tspan x="10" y="7850">486.  2017-04-18 04:44:06 +0000      809 bytes  lib/protocol/url.js</tspan>
+<tspan x="10" y="7866">487.  2017-04-18 04:44:06 +0000      981 bytes  lib/protocol/window.js</tspan>
+<tspan x="10" y="7882">488.  2017-04-18 04:44:06 +0000     1001 bytes  lib/protocol/windowHandle.js</tspan>
+<tspan x="10" y="7898">489.  2017-04-18 04:44:06 +0000      764 bytes  lib/protocol/windowHandleFullscreen.js</tspan>
+<tspan x="10" y="7914">490.  2017-04-18 04:44:06 +0000      643 bytes  lib/protocol/windowHandleMaximize.js</tspan>
+<tspan x="10" y="7930">491.  2017-04-18 04:44:06 +0000     2160 bytes  lib/protocol/windowHandlePosition.js</tspan>
+<tspan x="10" y="7946">492.  2017-04-18 04:44:06 +0000     2238 bytes  lib/protocol/windowHandleSize.js</tspan>
+<tspan x="10" y="7962">493.  2017-04-18 04:44:06 +0000     1178 bytes  lib/protocol/windowHandles.js</tspan>
+<tspan x="10" y="7978">494.  2017-04-18 04:44:06 +0000    25255 bytes  package.json</tspan>
+<tspan x="10" y="7994">495.  2017-04-18 04:44:06 +0000     1421 bytes  phantomjsdriver.log</tspan>
 </text>
 </svg>
