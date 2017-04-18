@@ -1,9 +1,14 @@
-# api documentation for  [webdriverio (v4.6.2)](http://webdriver.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-webdriverio.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webdriverio) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webdriverio.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webdriverio)
+# npmdoc-webdriverio
+
+#### api documentation for  [webdriverio (v4.6.2)](http://webdriver.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-webdriverio.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webdriverio) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webdriverio.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webdriverio)
+
 #### A nodejs bindings implementation for selenium 2.0/webdriver
 
-[![NPM](https://nodei.co/npm/webdriverio.png?downloads=true)](https://www.npmjs.com/package/webdriverio)
+[![NPM](https://nodei.co/npm/webdriverio.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webdriverio)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webdriverio/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-webdriverio_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webdriverio/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-webdriverio/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-webdriverio/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webdriverio/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webdriverio/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-webdriverio/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Camilo Tapia",
-        "email": "camilo.tapia@gmail.com"
+        "name": "Camilo Tapia"
     },
     "bin": {
         "wdio": "bin/wdio"
@@ -28,965 +32,725 @@
     },
     "contributors": [
         {
-            "name": "Christian Bromann",
-            "email": "github@christian-bromann.com"
+            "name": "Christian Bromann"
         },
         {
-            "name": "vvo",
-            "email": "vincent.voyer@gmail.com"
+            "name": "vvo"
         },
         {
-            "name": "christian-bromann",
-            "email": "mail@christian-bromann.com"
+            "name": "christian-bromann"
         },
         {
-            "name": "George Crawford",
-            "email": "george.crawford@ft.com"
+            "name": "George Crawford"
         },
         {
-            "name": "Camilo Tapia",
-            "email": "camilo.tapia@gmail.com"
+            "name": "Camilo Tapia"
         },
         {
-            "name": "camilo tapia",
-            "email": "camilo.tapia@gmail.com"
+            "name": "camilo tapia"
         },
         {
-            "name": "Christian Bromann",
-            "email": "contact@christian-bromann.com"
+            "name": "Christian Bromann"
         },
         {
-            "name": "Vincent Voyer",
-            "email": "vincent.voyer@gmail.com"
+            "name": "Vincent Voyer"
         },
         {
-            "name": "Dan Dascalescu",
-            "email": "ddascalescu+github@gmail.com"
+            "name": "Dan Dascalescu"
         },
         {
-            "name": "W. van Kuipers",
-            "email": "w.vankuipers@lukkien.com"
+            "name": "W. van Kuipers"
         },
         {
-            "name": "Dan Jenkins",
-            "email": "dan.jenkins88@gmail.com"
+            "name": "Dan Jenkins"
         },
         {
-            "name": "clara-udofa",
-            "email": "clara.udofa@thomsonreuters.com"
+            "name": "clara-udofa"
         },
         {
-            "name": "Pat Thiel",
-            "email": "pthiel@anthropologie.com"
+            "name": "Pat Thiel"
         },
         {
-            "name": "Johannes Nickel",
-            "email": "johannes.nickel@googlemail.com"
+            "name": "Johannes Nickel"
         },
         {
-            "name": "Alexis Gauthiez",
-            "email": "alexis.gauthiez@blablacar.com"
+            "name": "Alexis Gauthiez"
         },
         {
-            "name": "ysono",
-            "email": "yoshiaki.sono@gmail.com"
+            "name": "ysono"
         },
         {
-            "name": "Robin Franken",
-            "email": "robin0165@hotmail.com"
+            "name": "Robin Franken"
         },
         {
-            "name": "Risto Stevcev",
-            "email": "risto1@gmail.com"
+            "name": "Risto Stevcev"
         },
         {
-            "name": "Amila Welihinda",
-            "email": "amilajack@users.noreply.github.com"
+            "name": "Amila Welihinda"
         },
         {
-            "name": "Filipe Araujo",
-            "email": "filipe.alves.araujo@gmail.com"
+            "name": "Filipe Araujo"
         },
         {
-            "name": "Anton Usmansky",
-            "email": "cody0@yandex-team.ru"
+            "name": "Anton Usmansky"
         },
         {
-            "name": "pazone",
-            "email": "pazone@yandex-team.ru"
+            "name": "pazone"
         },
         {
-            "name": "compulim",
-            "email": "compulim@hotmail.com"
+            "name": "compulim"
         },
         {
-            "name": "csoete",
-            "email": "christian.soete@gmail.com"
+            "name": "csoete"
         },
         {
-            "name": "Kurt Harriger",
-            "email": "kharriger@rallydev.com"
+            "name": "Kurt Harriger"
         },
         {
-            "name": "Micah Godbolt",
-            "email": "micahgodbolt@gmail.com"
+            "name": "Micah Godbolt"
         },
         {
-            "name": "Kevin Lamping",
-            "email": "klamping@gmail.com"
+            "name": "Kevin Lamping"
         },
         {
-            "name": "dsh",
-            "email": "dsh@dman13.dyndns.org"
+            "name": "dsh"
         },
         {
-            "name": "Mason Du",
-            "email": "masondu@gmail.com"
+            "name": "Mason Du"
         },
         {
-            "name": "Jaroslav Kubíček",
-            "email": "jaroslav.kubicek@socialbakers.com"
+            "name": "Jaroslav Kubíček"
         },
         {
-            "name": "Richard Leap",
-            "email": "richard@apergy.co.uk"
+            "name": "Richard Leap"
         },
         {
-            "name": "Robin Franken",
-            "email": "franken@lequest.nl"
+            "name": "Robin Franken"
         },
         {
-            "name": "Alexander Abashkin",
-            "email": "monolithed@gmail.com"
+            "name": "Alexander Abashkin"
         },
         {
-            "name": "Marius OLAR",
-            "email": "marius@presslabs.com"
+            "name": "Marius OLAR"
         },
         {
-            "name": "Juga Paazmaya",
-            "email": "paazmaya@yahoo.com"
+            "name": "Juga Paazmaya"
         },
         {
-            "name": "Karen",
-            "email": "nyarasha@gmail.com"
+            "name": "Karen"
         },
         {
-            "name": "George Crawford",
-            "email": "g.o.crawford@gmail.com"
+            "name": "George Crawford"
         },
         {
-            "name": "Konrad",
-            "email": "konrad_here@hotmail.com"
+            "name": "Konrad"
         },
         {
-            "name": "Thomas Grainger",
-            "email": "tagrain@gmail.com"
+            "name": "Thomas Grainger"
         },
         {
-            "name": "Denis Gorbachev",
-            "email": "Denis.Gorbachev@faster-than-wind.ru"
+            "name": "Denis Gorbachev"
         },
         {
-            "name": "Tsutomu Kawamura",
-            "email": "cognitom@gmail.com"
+            "name": "Tsutomu Kawamura"
         },
         {
-            "name": "Dmitry Sorin",
-            "email": "dsorin@yandex-team.ru"
+            "name": "Dmitry Sorin"
         },
         {
-            "name": "Vadim",
-            "email": "moshasmail@gmail.com"
+            "name": "Vadim"
         },
         {
-            "name": "Matija Marohnić",
-            "email": "matija.marohnic@gmail.com"
+            "name": "Matija Marohnić"
         },
         {
-            "name": "Matthew Cale",
-            "email": "mattc41190@gmail.com"
+            "name": "Matthew Cale"
         },
         {
-            "name": "W. van Kuipers",
-            "email": "wvankuipers@users.noreply.github.com"
+            "name": "W. van Kuipers"
         },
         {
-            "name": "Jim Davis",
-            "email": "jim.davis@krogercom"
+            "name": "Jim Davis"
         },
         {
-            "name": "Jochen",
-            "email": "info@testingbot.com"
+            "name": "Jochen"
         },
         {
-            "name": "Mikhail Korepanov",
-            "email": "panyakor@gmail.com"
+            "name": "Mikhail Korepanov"
         },
         {
-            "name": "Anton Kuznetsov",
-            "email": "isnifer@gmail.com"
+            "name": "Anton Kuznetsov"
         },
         {
-            "name": "Jonas Aschenbrenner",
-            "email": "jonas.aschenbrenner@gmail.com"
+            "name": "Jonas Aschenbrenner"
         },
         {
-            "name": "tschuliiia",
-            "email": "j.viehberger@netconomy.net"
+            "name": "tschuliiia"
         },
         {
-            "name": "ağdaş Tülek",
-            "email": "cagdas@outschool.com"
+            "name": "ağdaş Tülek"
         },
         {
-            "name": "Zach Lym",
-            "email": "zachlym@indolering.com"
+            "name": "Zach Lym"
         },
         {
-            "name": "Willson Haw",
-            "email": "willsonh@iqmetrix.com"
+            "name": "Willson Haw"
         },
         {
-            "name": "Brian Broll",
-            "email": "brian.broll@vanderbilt.edu"
+            "name": "Brian Broll"
         },
         {
-            "name": "Ebbe Brandstrup",
-            "email": "ebbe@teletronics.ae"
+            "name": "Ebbe Brandstrup"
         },
         {
-            "name": "DudaGod",
-            "email": "dudkevich@yandex-team.ru"
+            "name": "DudaGod"
         },
         {
-            "name": "Nicholas Dobie",
-            "email": "dobienick@gmail.com"
+            "name": "Nicholas Dobie"
         },
         {
-            "name": "enrique.daimiel",
-            "email": "enrique.daimiel@bbva.com"
+            "name": "enrique.daimiel"
         },
         {
-            "name": "Tom Regner",
-            "email": "thomas.regner@joocom.de"
+            "name": "Tom Regner"
         },
         {
-            "name": "gramgit",
-            "email": "graemedatabis@gmail.com"
+            "name": "gramgit"
         },
         {
-            "name": "Nicky Out",
-            "email": "nickyout@gmail.com"
+            "name": "Nicky Out"
         },
         {
-            "name": "Roman Rozhdestvenskiy",
-            "email": "sbmaxx@gmail.com"
+            "name": "Roman Rozhdestvenskiy"
         },
         {
-            "name": "Pat Thiel",
-            "email": "patthiel@gmail.com"
+            "name": "Pat Thiel"
         },
         {
-            "name": "just-boris",
-            "email": "just-boris@yandex-team.ru"
+            "name": "just-boris"
         },
         {
-            "name": "Marius Rugan",
-            "email": "mariusrugan@gmail.com"
+            "name": "Marius Rugan"
         },
         {
-            "name": "Marco Faustinelli Muzietto",
-            "email": "marco.faustinelli@neomobile.com"
+            "name": "Marco Faustinelli Muzietto"
         },
         {
-            "name": "patthiel",
-            "email": "pthiel@anthropologie.com"
+            "name": "patthiel"
         },
         {
-            "name": "David M. Lentz",
-            "email": "davidmlentz@users.noreply.github.com"
+            "name": "David M. Lentz"
         },
         {
-            "name": "Branton Horsley",
-            "email": "bhorsley@digium.com"
+            "name": "Branton Horsley"
         },
         {
-            "name": "Jon Hoguet",
-            "email": "jonathan.hoguet@dealer.com"
+            "name": "Jon Hoguet"
         },
         {
-            "name": "Pranjal Raihan",
-            "email": "Pranjal.Raihan@am.sony.com"
+            "name": "Pranjal Raihan"
         },
         {
-            "name": "sbmaxx",
-            "email": "sbmaxx@gmail.com"
+            "name": "sbmaxx"
         },
         {
-            "name": "Bernhard K. Weisshuhn",
-            "email": "bkw@codingforce.com"
+            "name": "Bernhard K. Weisshuhn"
         },
         {
-            "name": "ngel Sanz",
-            "email": "angelsanz@users.noreply.github.com"
+            "name": "ngel Sanz"
         },
         {
-            "name": "Danny Guo",
-            "email": "dguo@users.noreply.github.com"
+            "name": "Danny Guo"
         },
         {
-            "name": "Josh Cypher",
-            "email": "jcypher@myemma.com"
+            "name": "Josh Cypher"
         },
         {
-            "name": "Stefan Grönke",
-            "email": "stefan@gronke.net"
+            "name": "Stefan Grönke"
         },
         {
-            "name": "Roman",
-            "email": "zummo3@gmail.com"
+            "name": "Roman"
         },
         {
-            "name": "Andy Edwards",
-            "email": "jedwards@fastmail.com"
+            "name": "Andy Edwards"
         },
         {
-            "name": "Kevin Sawicki",
-            "email": "kevinsawicki@gmail.com"
+            "name": "Kevin Sawicki"
         },
         {
-            "name": "Saul Shanabrook",
-            "email": "s.shanabrook@gmail.com"
+            "name": "Saul Shanabrook"
         },
         {
-            "name": "Adrian Lynch",
-            "email": "adi_ady_ade@hotmail.com"
+            "name": "Adrian Lynch"
         },
         {
-            "name": "Bryan Kane",
-            "email": "bryan@coursera.org"
+            "name": "Bryan Kane"
         },
         {
-            "name": "Elmar Athmer",
-            "email": "elmar@athmer.org"
+            "name": "Elmar Athmer"
         },
         {
-            "name": "Benjamin Eidelman",
-            "email": "beneidel@gmail.com"
+            "name": "Benjamin Eidelman"
         },
         {
-            "name": "Michael Jones",
-            "email": "michael@juliand.co.uk"
+            "name": "Michael Jones"
         },
         {
-            "name": "Piper Chester",
-            "email": "piperchester@gmail.com"
+            "name": "Piper Chester"
         },
         {
-            "name": "Pranjal Raihan",
-            "email": "prshreshtha@users.noreply.github.com"
+            "name": "Pranjal Raihan"
         },
         {
-            "name": "Quang Van",
-            "email": "quangvvv@gmail.com"
+            "name": "Quang Van"
         },
         {
-            "name": "Ray Dai",
-            "email": "Ray.dai@myob.com"
+            "name": "Ray Dai"
         },
         {
-            "name": "RayWasHere",
-            "email": "rayru@hipages.com.au"
+            "name": "RayWasHere"
         },
         {
-            "name": "Remek Ambroziak",
-            "email": "remek.ambroziak@gmail.com"
+            "name": "Remek Ambroziak"
         },
         {
-            "name": "Richard Leap",
-            "email": "apergy.dev@gmail.com"
+            "name": "Richard Leap"
         },
         {
-            "name": "Rick Yakubowski",
-            "email": "richard@orpha-systems.com"
+            "name": "Rick Yakubowski"
         },
         {
-            "name": "Rob Howell",
-            "email": "rob@robhowell.com"
+            "name": "Rob Howell"
         },
         {
-            "name": "Robert Jakubowicz",
-            "email": "robert@lagoa.com"
+            "name": "Robert Jakubowicz"
         },
         {
-            "name": "Roman Faizullin",
-            "email": "zummo3@gmail.com"
+            "name": "Roman Faizullin"
         },
         {
-            "name": "Sakari Jokinen",
-            "email": "sakari.jokinen@rocketpack.fi"
+            "name": "Sakari Jokinen"
         },
         {
-            "name": "Sam Joch",
-            "email": "samuel@guiora.com"
+            "name": "Sam Joch"
         },
         {
-            "name": "Schultz,Konrad",
-            "email": "Konrad.Schultz@Cerner.com"
+            "name": "Schultz,Konrad"
         },
         {
-            "name": "Scott Falkingham",
-            "email": "scott@falkingham.ca"
+            "name": "Scott Falkingham"
         },
         {
-            "name": "Seth Merrick",
-            "email": "seth@strangewindstudio.com"
+            "name": "Seth Merrick"
         },
         {
-            "name": "Sébastien David",
-            "email": "sdavid@alkemics.com"
+            "name": "Sébastien David"
         },
         {
-            "name": "Siva",
-            "email": "byteshiva@users.noreply.github.com"
+            "name": "Siva"
         },
         {
-            "name": "Templum",
-            "email": "templum90@yahoo.de"
+            "name": "Templum"
         },
         {
-            "name": "TestingBot",
-            "email": "info@testingbot.com"
+            "name": "TestingBot"
         },
         {
-            "name": "Theodore J Huff",
-            "email": "theodorejhuff@gmail.com"
+            "name": "Theodore J Huff"
         },
         {
-            "name": "Thibaut Etienne",
-            "email": "thibaut@stickyads.tv"
+            "name": "Thibaut Etienne"
         },
         {
-            "name": "Thomas Grainger",
-            "email": "tom.grainger@procensus.com"
+            "name": "Thomas Grainger"
         },
         {
-            "name": "Tim Beyer",
-            "email": "tim.beyer@gmail.com"
+            "name": "Tim Beyer"
         },
         {
-            "name": "Tim Brust",
-            "email": "ratchet.player@gmx.de"
+            "name": "Tim Brust"
         },
         {
-            "name": "Tim Brust",
-            "email": "tim.brust@sinnerschrader.com"
+            "name": "Tim Brust"
         },
         {
-            "name": "Tim De Pauw",
-            "email": "tim.depauw@zentrick.com"
+            "name": "Tim De Pauw"
         },
         {
-            "name": "Tobias Lidskog",
-            "email": "tobias@lidskog.se"
+            "name": "Tobias Lidskog"
         },
         {
-            "name": "Tommy Chen",
-            "email": "tommy351@gmail.com"
+            "name": "Tommy Chen"
         },
         {
-            "name": "Tyler Johnson",
-            "email": "mail@tyler-johnson.ca"
+            "name": "Tyler Johnson"
         },
         {
-            "name": "Vadim Ivanov",
-            "email": "vadim.ivanov@here.com"
+            "name": "Vadim Ivanov"
         },
         {
-            "name": "Van Le",
-            "email": "singularity@vannio.co.uk"
+            "name": "Van Le"
         },
         {
-            "name": "Vincent Voyer",
-            "email": "vincent.voyer@algolia.com"
+            "name": "Vincent Voyer"
         },
         {
-            "name": "Vyacheslav Slinko",
-            "email": "vyacheslav.slinko@gmail.com"
+            "name": "Vyacheslav Slinko"
         },
         {
-            "name": "Will Meldon",
-            "email": "wdmeldon@gmail.com"
+            "name": "Will Meldon"
         },
         {
-            "name": "William T Luce",
-            "email": "luce.williamt@gmail.com"
+            "name": "William T Luce"
         },
         {
-            "name": "Wouter Broekhof",
-            "email": "wouter@wakoopa.com"
+            "name": "Wouter Broekhof"
         },
         {
-            "name": "Ziko Rajabali",
-            "email": "ziko@rajabali.ca"
+            "name": "Ziko Rajabali"
         },
         {
-            "name": "Zolmeister",
-            "email": "zolikahan@gmail.com"
+            "name": "Zolmeister"
         },
         {
-            "name": "amyjen",
-            "email": "chang@bounceexchange.com"
+            "name": "amyjen"
         },
         {
-            "name": "anhhh.11",
-            "email": "anhhh.11@gmail.com"
+            "name": "anhhh.11"
         },
         {
-            "name": "beauwalls1",
-            "email": "bwalls@validusa.com"
+            "name": "beauwalls1"
         },
         {
-            "name": "butlersrepos",
-            "email": "eric.butler.000@gmail.com"
+            "name": "butlersrepos"
         },
         {
-            "name": "dpm3354",
-            "email": "dpm3354@gmail.com"
+            "name": "dpm3354"
         },
         {
-            "name": "emilbryggare",
-            "email": "emil@emilbryggare.com"
+            "name": "emilbryggare"
         },
         {
-            "name": "fufnf",
-            "email": "roby-boby@ukr.net"
+            "name": "fufnf"
         },
         {
-            "name": "jharrowmortelliti",
-            "email": "jacob.harrowmortelliti@maine.edu"
+            "name": "jharrowmortelliti"
         },
         {
-            "name": "junketjim",
-            "email": "junketjim@users.noreply.github.com"
+            "name": "junketjim"
         },
         {
-            "name": "just-boris",
-            "email": "just-boris@hotmail.com"
+            "name": "just-boris"
         },
         {
-            "name": "lisss",
-            "email": "alicedeadbride@gmail.com"
+            "name": "lisss"
         },
         {
-            "name": "matteonovelli",
-            "email": "mnovelli@openfinance.es"
+            "name": "matteonovelli"
         },
         {
-            "name": "pplambeck",
-            "email": "paulplambeck@gmail.com"
+            "name": "pplambeck"
         },
         {
-            "name": "psimyn",
-            "email": "psimyn@gmail.com"
+            "name": "psimyn"
         },
         {
-            "name": "ruanyl",
-            "email": "ruanyu1@gmail.com"
+            "name": "ruanyl"
         },
         {
-            "name": "sbmaxx",
-            "email": "sbmaxx@yandex-team.ru"
+            "name": "sbmaxx"
         },
         {
-            "name": "sgryt",
-            "email": "christensen.mikkel@gmail.com"
+            "name": "sgryt"
         },
         {
-            "name": "spreston",
-            "email": "spreston@bcgtrans.com"
+            "name": "spreston"
         },
         {
-            "name": "ssnau",
-            "email": "korige@gmail.com"
+            "name": "ssnau"
         },
         {
-            "name": "tormozz48",
-            "email": "tormozz48@gmail.com"
+            "name": "tormozz48"
         },
         {
-            "name": "twilczek",
-            "email": "twilczek@thebrain.pro"
+            "name": "twilczek"
         },
         {
-            "name": "wcainboundary",
-            "email": "will@boundary.com"
+            "name": "wcainboundary"
         },
         {
-            "name": "wingsbob",
-            "email": "wingsbob@users.noreply.github.com"
+            "name": "wingsbob"
         },
         {
-            "name": "lker Göktuğ Öztürk",
-            "email": "ilkergoktugozturk@gmail.com"
+            "name": "lker Göktuğ Öztürk"
         },
         {
-            "name": "Richard Silverton",
-            "email": "silverton.richard@googlemail.com"
+            "name": "Richard Silverton"
         },
         {
-            "name": "Algram",
-            "email": "aliasgram@gmail.com"
+            "name": "Algram"
         },
         {
-            "name": "Amitaibu",
-            "email": "amitai@gizra.com"
+            "name": "Amitaibu"
         },
         {
-            "name": "Anders D. Johnson",
-            "email": "adjohnson916@users.noreply.github.com"
+            "name": "Anders D. Johnson"
         },
         {
-            "name": "Andrew Price",
-            "email": "aapp116@gmail.com"
+            "name": "Andrew Price"
         },
         {
-            "name": "Andrey Lazebniy",
-            "email": "andrey.lazebniy@grammarly.com"
+            "name": "Andrey Lazebniy"
         },
         {
-            "name": "Andrii Shumada",
-            "email": "eagleeyes91@gmail.com"
+            "name": "Andrii Shumada"
         },
         {
-            "name": "André",
-            "email": "mazoni.andre@gmail.com"
+            "name": "André"
         },
         {
-            "name": "Angie Semler",
-            "email": "angie.semler@gmail.com"
+            "name": "Angie Semler"
         },
         {
-            "name": "Anthony Barone",
-            "email": "tonybaroneee@gmail.com"
+            "name": "Anthony Barone"
         },
         {
-            "name": "Arie Milner",
-            "email": "amilner42@gmail.com"
+            "name": "Arie Milner"
         },
         {
-            "name": "B.E. Henriksen",
-            "email": "e@jiku.ca"
+            "name": "B.E. Henriksen"
         },
         {
-            "name": "Ben",
-            "email": "ben@benmakesgames.com"
+            "name": "Ben"
         },
         {
-            "name": "Ben Calegari",
-            "email": "bencalegari@gmail.com"
+            "name": "Ben Calegari"
         },
         {
-            "name": "Benjamin Nortier",
-            "email": "bjnortier@gmail.com"
+            "name": "Benjamin Nortier"
         },
         {
-            "name": "BlueRaja",
-            "email": "BlueRaja.admin@gmail.com"
+            "name": "BlueRaja"
         },
         {
-            "name": "Boris Serdiuk",
-            "email": "just-boris@hotmail.com"
+            "name": "Boris Serdiuk"
         },
         {
-            "name": "Brandon Wanamaker",
-            "email": "bwafflemaker@users.noreply.github.com"
+            "name": "Brandon Wanamaker"
         },
         {
-            "name": "Branton Horsley",
-            "email": "beeahillbilly@gmail.com"
+            "name": "Branton Horsley"
         },
         {
-            "name": "Brendan Dahl",
-            "email": "brendan.dahl@gmail.com"
+            "name": "Brendan Dahl"
         },
         {
-            "name": "Bruno Torquato",
-            "email": "brunont@users.noreply.github.com"
+            "name": "Bruno Torquato"
         },
         {
-            "name": "Chris Oelmueller",
-            "email": "chris.oelmueller@gmail.com"
+            "name": "Chris Oelmueller"
         },
         {
-            "name": "Christian Leutloff",
-            "email": "leutloff@sundancer.oche.de"
+            "name": "Christian Leutloff"
         },
         {
-            "name": "Clint Goodman",
-            "email": "goodmancf@ldschurch.org"
+            "name": "Clint Goodman"
         },
         {
-            "name": "Dale Fukami",
-            "email": "dalefukami@users.noreply.github.com"
+            "name": "Dale Fukami"
         },
         {
-            "name": "Daniel Wabyick",
-            "email": "dwabyick@yahoo.com"
+            "name": "Daniel Wabyick"
         },
         {
-            "name": "David Adams",
-            "email": "david@rechannel.co.uk"
+            "name": "David Adams"
         },
         {
-            "name": "David Linse",
-            "email": "davidlinse@gmail.com"
+            "name": "David Linse"
         },
         {
-            "name": "Denis Gorbachev",
-            "email": "denis.d.gorbachev@gmail.com"
+            "name": "Denis Gorbachev"
         },
         {
-            "name": "Ebbe Brandstrup",
-            "email": "ebbe@tlt.local"
+            "name": "Ebbe Brandstrup"
         },
         {
-            "name": "Eli Flanagan",
-            "email": "efx@users.noreply.github.com"
+            "name": "Eli Flanagan"
         },
         {
-            "name": "Emmerson Siqueira",
-            "email": "emmersonsiqueira@gmail.com"
+            "name": "Emmerson Siqueira"
         },
         {
-            "name": "Enrique Paredes",
-            "email": "enrique@iknite.com"
+            "name": "Enrique Paredes"
         },
         {
-            "name": "Eric Lee Carraway",
-            "email": "github@ericcarraway.com"
+            "name": "Eric Lee Carraway"
         },
         {
-            "name": "Erwan de FERRIERES",
-            "email": "erwan.de-ferrieres@whaller.com"
+            "name": "Erwan de FERRIERES"
         },
         {
-            "name": "Evgeni Kostadinov",
-            "email": "evgeni@weareathlon.com"
+            "name": "Evgeni Kostadinov"
         },
         {
-            "name": "Ewan Harris",
-            "email": "ewanharris93@gmail.com"
+            "name": "Ewan Harris"
         },
         {
-            "name": "Eyal Zekaria",
-            "email": "eyal.ez@gmail.com"
+            "name": "Eyal Zekaria"
         },
         {
-            "name": "Francis Reyes",
-            "email": "francis.mark.reyes@gmail.com"
+            "name": "Francis Reyes"
         },
         {
-            "name": "Gaspar Rey",
-            "email": "info@gasparrey.com"
+            "name": "Gaspar Rey"
         },
         {
-            "name": "Graham Nessler",
-            "email": "graham.nessler@gmail.com"
+            "name": "Graham Nessler"
         },
         {
-            "name": "Igor Soarez",
-            "email": "igorsoarez@gmail.com"
+            "name": "Igor Soarez"
         },
         {
-            "name": "Isac Lagerblad",
-            "email": "icaaaq@gmail.com"
+            "name": "Isac Lagerblad"
         },
         {
-            "name": "Ivan Poddubny",
-            "email": "ivan.poddubny@gmail.com"
+            "name": "Ivan Poddubny"
         },
         {
-            "name": "Jakub Žitný",
-            "email": "jakubzitny@avocode.com"
+            "name": "Jakub Žitný"
         },
         {
-            "name": "James M. Greene",
-            "email": "james.m.greene@gmail.com"
+            "name": "James M. Greene"
         },
         {
-            "name": "Jason Whittle",
-            "email": "jason.whittle@gmail.com"
+            "name": "Jason Whittle"
         },
         {
-            "name": "Javier Candeira",
-            "email": "javier@candeira.com"
+            "name": "Javier Candeira"
         },
         {
-            "name": "Jens Schulze",
-            "email": "jens.schulze@commercetools.de"
+            "name": "Jens Schulze"
         },
         {
-            "name": "Jim Davis",
-            "email": "fijijavis@users.noreply.github.com"
+            "name": "Jim Davis"
         },
         {
-            "name": "Jim Davis",
-            "email": "jamesdavis@Jamess-Mac-mini.local"
+            "name": "Jim Davis"
         },
         {
-            "name": "Jim Davis",
-            "email": "jim.davis@kroger.com"
+            "name": "Jim Davis"
         },
         {
-            "name": "Joe",
-            "email": "josephcreager@gmail.com"
+            "name": "Joe"
         },
         {
-            "name": "Joe Helfrich",
-            "email": "joe@helfrich.us"
+            "name": "Joe Helfrich"
         },
         {
-            "name": "Joe Pettersson",
-            "email": "me@joe8bit.com"
+            "name": "Joe Pettersson"
         },
         {
-            "name": "Johannes Nickel",
-            "email": "hanne_hal@me.com"
+            "name": "Johannes Nickel"
         },
         {
-            "name": "John Hewson",
-            "email": "john@jahewson.com"
+            "name": "John Hewson"
         },
         {
-            "name": "John Scaglione",
-            "email": "john.scaglione@whitehatsec.com"
+            "name": "John Scaglione"
         },
         {
-            "name": "Jon Hoguet",
-            "email": "jhoguet@gmail.com"
+            "name": "Jon Hoguet"
         },
         {
-            "name": "Jon Wood",
-            "email": "jwood803@users.noreply.github.com"
+            "name": "Jon Wood"
         },
         {
-            "name": "Jonathan Fielding",
-            "email": "jonathan-fielding@users.noreply.github.com"
+            "name": "Jonathan Fielding"
         },
         {
-            "name": "Josh Ferge",
-            "email": "josh.ferge@gmail.com"
+            "name": "Josh Ferge"
         },
         {
-            "name": "Joshua Toenyes",
-            "email": "josh@webgrain.net"
+            "name": "Joshua Toenyes"
         },
         {
-            "name": "Justin Gorinsky",
-            "email": "gorinsky@gmail.com"
+            "name": "Justin Gorinsky"
         },
         {
-            "name": "Kenshiro Nakagawa",
-            "email": "kencheeto@gmail.com"
+            "name": "Kenshiro Nakagawa"
         },
         {
-            "name": "Kevin McDonnell",
-            "email": "kevin.mcdonnell@learnosity.com"
+            "name": "Kevin McDonnell"
         },
         {
-            "name": "Khanh Do",
-            "email": "khanhdo.pmp@gmail.com"
+            "name": "Khanh Do"
         },
         {
-            "name": "LA Watts",
-            "email": "luke@thisis.la"
+            "name": "LA Watts"
         },
         {
-            "name": "Laran Evans",
-            "email": "laran@laranevans.com"
+            "name": "Laran Evans"
         },
         {
-            "name": "Levi Thomason",
-            "email": "me@levithomason.com"
+            "name": "Levi Thomason"
         },
         {
-            "name": "Luigi Leung",
-            "email": "luigi@alumni.cmu.edu"
+            "name": "Luigi Leung"
         },
         {
-            "name": "Lukáš Linhart",
-            "email": "lukas.linhart.1981@gmail.com"
+            "name": "Lukáš Linhart"
         },
         {
-            "name": "Macy Abbey",
-            "email": "macyabbey@Macy-Abbeys-MacBook-Pro.local"
+            "name": "Macy Abbey"
         },
         {
-            "name": "Marc Thomas",
-            "email": "hello@mrcthms.com"
+            "name": "Marc Thomas"
         },
         {
-            "name": "Martin Hansen",
-            "email": "martin@martinhansen.no"
+            "name": "Martin Hansen"
         },
         {
-            "name": "Mason Du",
-            "email": "mdu@benbria.com"
+            "name": "Mason Du"
         },
         {
             "name": "Mathias Schaefer",
-            "email": "zapperlott@gmail.com",
             "url": "molily"
         },
         {
-            "name": "Mathias Schäfer",
-            "email": "zapperlott@gmail.com"
+            "name": "Mathias Schäfer"
         },
         {
-            "name": "Maximilian Antoni",
-            "email": "mail@maxantoni.de"
+            "name": "Maximilian Antoni"
         },
         {
-            "name": "Michael Silveira",
-            "email": "gravitypersists@gmail.com"
+            "name": "Michael Silveira"
         },
         {
-            "name": "Mickaël Andrieu",
-            "email": "andrieu.travail@gmail.com"
+            "name": "Mickaël Andrieu"
         },
         {
-            "name": "Mike Nason",
-            "email": "michael@nason.us"
+            "name": "Mike Nason"
         },
         {
-            "name": "Minkyu Cho",
-            "email": "mrnoname@naver.com"
+            "name": "Minkyu Cho"
         },
         {
-            "name": "Mohammad Asif",
-            "email": "mohdasif2294@gmail.com"
+            "name": "Mohammad Asif"
         },
         {
-            "name": "Navmed",
-            "email": "Web1@naveed.net"
+            "name": "Navmed"
         },
         {
-            "name": "Nick",
-            "email": "shkaper@gmail.com"
+            "name": "Nick"
         },
         {
-            "name": "Oleg Seletsky",
-            "email": "oleg.b.seletsky@gmail.com"
+            "name": "Oleg Seletsky"
         },
         {
-            "name": "Patrick Debois",
-            "email": "Patrick.Debois@jedi.be"
+            "name": "Patrick Debois"
         },
         {
-            "name": "Pavel Karoukin",
-            "email": "pavel@karoukin.us"
+            "name": "Pavel Karoukin"
         }
     ],
     "dependencies": {
@@ -1091,17 +855,14 @@
     "main": "./build/index.js",
     "maintainers": [
         {
-            "name": "christian-bromann",
-            "email": "contact@christian-bromann.com"
+            "name": "christian-bromann"
         },
         {
-            "name": "georgecrawfordft",
-            "email": "george.crawford@ft.com"
+            "name": "georgecrawfordft"
         }
     ],
     "name": "webdriverio",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/webdriverio/webdriverio.git"
@@ -1128,229 +889,6 @@
     ],
     "version": "4.6.2"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module webdriverio](#apidoc.module.webdriverio)
-1.  [function <span class="apidocSignatureSpan">webdriverio.</span>ErrorHandler (type, msg, details)](#apidoc.element.webdriverio.ErrorHandler)
-1.  [function <span class="apidocSignatureSpan">webdriverio.</span>Launcher (configFile, argv)](#apidoc.element.webdriverio.Launcher)
-1.  [function <span class="apidocSignatureSpan">webdriverio.</span>multiremote (options)](#apidoc.element.webdriverio.multiremote)
-1.  [function <span class="apidocSignatureSpan">webdriverio.</span>remote ()](#apidoc.element.webdriverio.remote)
-1.  string <span class="apidocSignatureSpan">webdriverio.</span>VERSION
-
-
-
-# <a name="apidoc.module.webdriverio"></a>[module webdriverio](#apidoc.module.webdriverio)
-
-#### <a name="apidoc.element.webdriverio.ErrorHandler"></a>[function <span class="apidocSignatureSpan">webdriverio.</span>ErrorHandler (type, msg, details)](#apidoc.element.webdriverio.ErrorHandler)
-- description and source-code
-```javascript
-function ErrorHandler(type, msg, details) {
-    (0, _classCallCheck3.default)(this, ErrorHandler);
-
-    var _this = (0, _possibleConstructorReturn3.default)(this, (ErrorHandler.__proto__ || (0, _getPrototypeOf2.default)(ErrorHandler
-)).call(this));
-
-    Error.captureStackTrace(_this, _this.constructor);
-
-    if (typeof msg === 'number') {
-        // if ID is not known error throw UnknownError
-        if (!_constants.ERROR_CODES[msg]) {
-            msg = 13;
-        }
-
-        _this.type = _constants.ERROR_CODES[msg].id;
-        _this.message = _constants.ERROR_CODES[msg].message;
-
-        if (msg === 7 && details) {
-            _this.message = _this.message.slice(0, -1) + ' ("' + details + '").';
-        }
-    } else if (arguments.length === 2) {
-        _this.message = msg;
-        _this.type = type;
-    } else if (arguments.length === 1) {
-        _this.type = 'WebdriverIOError';
-        _this.message = type;
-    }
-
-    if ((0, _typeof3.default)(_this.message) === 'object') {
-        var seleniumStack = _this.message;
-
-        if (seleniumStack.screenshot) {
-            _this.screenshot = seleniumStack.screenshot;
-            delete seleniumStack.screenshot;
-        }
-
-        if (seleniumStack.message && seleniumStack.type && seleniumStack.status) {
-            if (typeof seleniumStack.orgStatusMessage === 'string' && seleniumStack.orgStatusMessage.match(/"errorMessage":"NoSuchElement
-"/)) {
-                seleniumStack.type = 'NoSuchElement';
-                seleniumStack.status = 7;
-                seleniumStack.message = _constants.ERROR_CODES['7'].message;
-            }
-
-            _this.message = seleniumStack.message + ' (' + seleniumStack.type + ':' + seleniumStack.status + ')';
-        }
-
-        if (typeof seleniumStack.orgStatusMessage === 'string') {
-            var reqPos = seleniumStack.orgStatusMessage.indexOf(',"request"');
-            var problem = '';
-
-            if (reqPos > 0) {
-                problem = JSON.parse(seleniumStack.orgStatusMessage.slice(0, reqPos) + '}').errorMessage;
-            } else {
-                problem = seleniumStack.orgStatusMessage;
-            }
-
-            if (problem.indexOf('No enum constant org.openqa.selenium.Platform') > -1) {
-                problem = 'The Selenium backend you\'ve chosen doesn\'t support the desired platform (' + problem.slice(46) + ')';
-            }
-
-            // truncate errorMessage
-            if (problem.indexOf('(Session info:') > -1) {
-                problem = problem.slice(0, problem.indexOf('(Session info:')).trim();
-            }
-
-            // make assumption based on experience on certain error messages
-            if (problem.indexOf('unknown error: path is not absolute') !== -1) {
-                problem = 'You are trying to set a value to an input field with type="file", use the 'uploadFile' command instead
- (Selenium error: ' + problem + ')';
-            }
-
-            _this.message = problem;
-            _this.seleniumStack = seleniumStack;
-        }
-    }
-    return _this;
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.webdriverio.Launcher"></a>[function <span class="apidocSignatureSpan">webdriverio.</span>Launcher (configFile, argv)](#apidoc.element.webdriverio.Launcher)
-- description and source-code
-```javascript
-function Launcher(configFile, argv) {
-    (0, _classCallCheck3.default)(this, Launcher);
-
-    this.configParser = new _ConfigParser2.default();
-    this.configParser.addConfigFile(configFile);
-    this.configParser.merge(argv);
-
-    this.reporters = this.initReporters();
-
-    this.argv = argv;
-    this.configFile = configFile;
-
-    this.exitCode = 0;
-    this.hasTriggeredExitRoutine = false;
-    this.hasStartedAnyProcess = false;
-    this.processes = [];
-    this.schedule = [];
-    this.rid = [];
-    this.processesStarted = 0;
-    this.runnerFailed = 0;
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.webdriverio.multiremote"></a>[function <span class="apidocSignatureSpan">webdriverio.</span>multiremote (options)](#apidoc.element.webdriverio.multiremote)
-- description and source-code
-```javascript
-function multiremote(options) {
-    var multibrowser = new _multibrowser2.default();
-
-    var _iteratorNormalCompletion2 = true;
-    var _didIteratorError2 = false;
-    var _iteratorError2 = undefined;
-
-    try {
-        for (var _iterator2 = (0, _getIterator3.default)((0, _keys2.default)(options)), _step2; !(_iteratorNormalCompletion2 = (
-_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
-            var browserName = _step2.value;
-
-            multibrowser.addInstance(browserName, remote(options[browserName], multibrowser.getInstanceModifier()));
-        }
-    } catch (err) {
-        _didIteratorError2 = true;
-        _iteratorError2 = err;
-    } finally {
-        try {
-            if (!_iteratorNormalCompletion2 && _iterator2.return) {
-                _iterator2.return();
-            }
-        } finally {
-            if (_didIteratorError2) {
-                throw _iteratorError2;
-            }
-        }
-    }
-
-    return remote(options, multibrowser.getModifier());
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.webdriverio.remote"></a>[function <span class="apidocSignatureSpan">webdriverio.</span>remote ()](#apidoc.element.webdriverio.remote)
-- description and source-code
-```javascript
-function remote() {
-    var options = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
-    var modifier = arguments[1];
-
-<span class="apidocCodeCommentSpan">    /**
-     * initialise monad
-     */
-</span>    var wdio = (0, _webdriverio2.default)(options, modifier);
-
-    /**
-     * build prototype: commands
-     */
-    var _iteratorNormalCompletion = true;
-    var _didIteratorError = false;
-    var _iteratorError = undefined;
-
-    try {
-        for (var _iterator = (0, _getIterator3.default)((0, _keys2.default)(IMPLEMENTED_COMMANDS)), _step; !(_iteratorNormalCompletion
- = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
-            var commandName = _step.value;
-
-            wdio.lift(commandName, IMPLEMENTED_COMMANDS[commandName]);
-        }
-    } catch (err) {
-        _didIteratorError = true;
-        _iteratorError = err;
-    } finally {
-        try {
-            if (!_iteratorNormalCompletion && _iterator.return) {
-                _iterator.return();
-            }
-        } finally {
-            if (_didIteratorError) {
-                throw _iteratorError;
-            }
-        }
-    }
-
-    var prototype = wdio();
-    prototype.defer.resolve();
-    return prototype;
-}
-```
-- example usage
-```shell
-n/a
 ```
 
 
